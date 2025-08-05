@@ -1,0 +1,14 @@
+.contentContainer > div > h2{
+    text-align: justify;
+} 
+
+.contentContainer > div > a{
+    text-decoration: none;
+}
+
+.contentContainer>div>a:hover{
+    text-decoration: underline;
+}
+
+@media only screen and (min-width: 768px) {
+}

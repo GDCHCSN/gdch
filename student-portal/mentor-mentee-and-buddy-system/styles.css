@@ -1,0 +1,10 @@
+.contentContainer .mentorMenteeIntro{
+    margin-top: 2rem;
+    font-size: 0.75rem;
+}
+
+@media only screen and (min-width: 768px) {
+    .contentContainer .mentorMenteeIntro{
+        font-size: 1rem;
+    }
+}

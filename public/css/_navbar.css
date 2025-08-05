@@ -1,0 +1,264 @@
+.topbar {
+    background-color: var(--primary-color);
+    color: white;
+    display: flex;
+    gap: 1rem;
+    justify-content: end;
+    align-items: center;
+    padding: 0.5rem;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+.topbar p {
+    font-family: serif;
+    font-size: 0.75rem;
+}
+
+.bannerContainer {
+    color: var(--primary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 0.5rem;
+    gap: 1rem;
+}
+
+.logo {
+    /* height: 4rem; */
+    height: 12vw;
+    width: auto;
+}
+
+.logo.extra {
+    /* display: none; */
+}
+
+.bannerTextContainer {
+    margin: 0.25rem;
+}
+
+.bannerTextContainer>h2 {
+    /* font-size: 0.625rem; */
+    font-size: 3vw;
+    font-weight: bolder;
+}
+
+.bannerTextContainer>h3 {
+    /* font-size: 0.5rem; */
+    font-size: 2vw;
+    font-weight: bolder;
+}
+
+.bannerTextContainer>.subText {
+    margin-top: 0.25rem;
+}
+
+.navbar {
+    background-color: var(--primary-color);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+    font-weight: bold;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .navbar {
+        padding: 0 100px;
+    }
+}
+
+.hamburger {
+    display: block;
+    align-self: end;
+    padding: 1rem;
+    background-color: var(--primary-color);
+    border: none;
+}
+
+.hamburger>svg {
+    fill: white;
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.navbar>.navItemContainer {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.navItemContainer>a {
+    text-decoration: none;
+    color: white;
+    width: 100%;
+    display: block;
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+    border: 1px solid var(--light-primary-color);
+}
+
+.navItemContainer>a:hover {
+    background-color: var(--light-primary-color);
+    transition: all;
+    transition-duration: 200ms;
+    cursor: pointer;
+}
+
+.navbar .dropdownContainer {
+    background-color: var(--primary-color);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    cursor: default;
+    transition: all;
+    transition-duration: 200ms;
+    border: 1px solid var(--light-primary-color);
+}
+
+.researchDropdown {
+    position: relative;
+}
+
+.dropdownContainer div {
+    display: flex;
+    padding: 0.5rem 1rem;
+    gap: 0.25rem;
+    font-size: 0.875rem;
+}
+
+.dropdownContainer img {
+    align-self: center;
+    rotate: 180deg;
+    height: 0.75rem;
+    width: 0.75rem;
+}
+
+.dropdownContainer>.subNavItemContainer {
+    min-width: fit-content;
+    z-index: 50;
+    background-color: var(--light-primary-color);
+    display: none;
+    flex-direction: column;
+    padding: 0;
+    gap: 0;
+    position: absolute;
+}
+
+.subNavItemContainer>a {
+    max-width: 100vw;
+    overflow: hidden;
+    display: block;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    transition: all;
+    padding: 0.5rem 1.5rem;
+    transition-duration: 200ms;
+    white-space: nowrap;
+    border: 1px solid var(--light-primary-color);
+}
+
+.subNavItemContainer>a:hover {
+    background-color: var(--primary-color);
+}
+
+.backToTopBtn {
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    display: none;
+    bottom: 4rem;
+    right: 2rem;
+    z-index: 99;
+    background-color: var(--primary-color);
+    border-radius: 50%;
+    padding: 0.25rem;
+    cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+    .topbar {
+        padding: 0.5rem 3rem;
+        font-size: 1.25rem;
+    }
+
+    .topbar p {
+        font-size: 1rem;
+    }
+
+    .bannerContainer {
+        /* padding:0 2rem; */
+        gap: 2rem;
+    }
+
+    .logo {
+        /* height: 10rem; */
+        height: 10vw;
+        width: auto;
+    }
+
+    .logo.extra {
+        display: block;
+    }
+
+    .bannerTextContainer {
+        margin: 1rem;
+    }
+
+    .bannerTextContainer>h2 {
+        /* font-size: 2rem; */
+        font-size: 2vw;
+        font-weight: bolder;
+    }
+
+    .bannerTextContainer>h3 {
+        /* font-size: 1.25rem; */
+        font-size: 1vw;
+        font-weight: bolder;
+    }
+
+    .hamburger {
+        display: none;
+    }
+
+    .navbar>.navItemContainer {
+        align-self: center;
+        flex-wrap: wrap;
+    }
+
+    .navItemContainer>a {
+        width: fit-content;
+        padding: 1rem 1rem;
+        font-size: 0.875rem;
+        border: none;
+    }
+
+    .navbar .dropdownContainer {
+        border: none;
+    }
+
+    .dropdownContainer div {
+        font-size: 0.875rem;
+        width: fit-content;
+        padding: 1rem 1rem;
+    }
+
+    .subNavItemContainer>a {
+        padding: 0.75rem 2rem;
+        width: 100%;
+        border: none;
+    }
+
+    .backToTopBtn {
+        height: 70px;
+        width: 70px;
+        bottom: 5rem;
+        right: 5rem;
+    }
+}

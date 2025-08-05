@@ -1,0 +1,77 @@
+.footerContainer {
+    margin-top: 0.5rem;
+}
+
+.footerMain {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: var(--light-primary-color);
+    padding: 2rem;
+    color: white;
+}
+
+.footerMain>div {
+    display: flex;
+    flex-direction: column;
+}
+
+.footerMain>div>span {
+    font-style: normal;
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin: 1rem 0 0.5rem 0;
+}
+
+.footerMain>div a {
+    display: block;
+    font-size: 0.875rem;
+    color: white;
+    text-decoration: none;
+    margin: 0.5rem 0 0.5rem 0;
+}
+
+.footerMain>div>p {
+    font-size: 0.875rem;
+    color: white;
+    margin: 0.5rem 0 0.5rem 0;
+}
+
+.footerMain>div>a:hover {
+    text-decoration: underline;
+}
+
+.secondaryFooter {
+    font-size: 0.5rem;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+.footerMain .visitorCounter a{
+    margin-top: 1rem;
+}
+
+@media only screen and (min-width: 768px) {
+    .footerMain {
+        flex-direction: row;
+        gap: 2rem;
+    }
+
+    .footerMain>div>span {
+        font-size: 1.5rem;
+    }
+
+    .footerMain>div>a {
+        font-size: 1rem;
+    }
+
+    .footerMain>div>p {
+        font-size: 1rem;
+    }
+
+    .secondaryFooter {
+        font-size: 1rem;
+    }
+}

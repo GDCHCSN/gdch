@@ -1,0 +1,22 @@
+.research-link-container  a {
+    font-size: large;
+    color: var(--primary-color);
+    font-weight: 500;
+    box-shadow: 1px 1px 2px grey;
+    border-radius: 1rem;
+    border: 2px solid var(--primary-color);
+    padding: 1rem;
+
+}
+
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.research-link-container {
+    gap: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
