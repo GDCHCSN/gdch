@@ -79,7 +79,7 @@ $CURRENTDIRURL = $ROOTURL . "fellowship/";
                         </a>
                     </li>
                     <li>
-                        <a href="<?php echo $CURRENTDIRURL ?>/assets/ANNEXURE_G.pdf" target="_blank">
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/ANNEXURE_G.pdf" target="_blank">
                             Annexure G
                             <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
                         </a>
