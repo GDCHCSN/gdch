@@ -122,6 +122,9 @@
             <a href="<?php echo $ROOTURL ?>naac">
                 NAAC
             </a>
+            <a href="<?php echo $ROOTURL ?>fellowship/">
+                FELLOWSHIP
+            </a>
             <div class="dropdownContainer">
                 <div>
                     RESEARCH
