@@ -54,6 +54,7 @@ $CURRENTDIRURL = $ROOTURL . "";
             <a href="<?php echo $ROOTURL ?>public/assets/NIRF-2025.pdf" target="_blank">
                 NIRF Ranking
             </a>
+        
             <a href="<?php echo $ROOTURL ?>public/assets/india-today-ranking.jpeg" target="_blank">
                 India Today Ranking
             </a>
@@ -76,10 +77,13 @@ $CURRENTDIRURL = $ROOTURL . "";
             <a href="<?php echo $ROOTURL ?>public/assets/antim_nivad_yadi_CA_Ship_Oct_2024.pdf" target="_blank">
                 अंतिम निवड यादी CA Ship 2024
             </a>
+            <a href="<?php echo $ROOTURL ?>/procurement-cell/assets/2025-26/canteen_tender_2025-26.pdf" target="_blank" style="position: relative;">
+                <span style="position: absolute; top: 0; left: 0; transform: translate(-30%); animation: blink 1s steps(2, start) infinite; text-shadow: none">new</span>Canteen Tender 2025-2026</a>
         </div>
         <div class="marqueeContent">
 			<!---<a href="<?php echo $ROOTURL ?>/procurement-cell/assets/E-AUCTION NOTICE FOR SALE OF UNSERVICEABLEBROKENNO_REPAIRABLE MACHINERIESEQUIPMENTFURNITURE ITEMS.pdf" target="_blank" style="position: relative;"><span style="position: absolute; top: 0; left: 0; transform: translate(-30%); animation: blink 1s steps(2, start) infinite; text-shadow: none">new</span>E-AUCTION NOTICE FOR SALE OF WRITTEN DOWN ITEMS</a> --->
             <a href="<?php echo $ROOTURL ?>/procurement-cell/assets/3_NOTICE FOR GEM FORWARD AUCTION.pdf" target="_blank" style="position: relative;"><span style="position: absolute; top: 0; left: 0; transform: translate(-30%); animation: blink 1s steps(2, start) infinite; text-shadow: none">New</span>3-E-AUCTION NOTICE FOR SALE OF WRITTEN DOWN ITEMS</a>
+            
             <a href="<?php echo $ROOTURL ?>public/assets/Event_Img.jpg" target="_blank">
                 ROOTS AND WINGS ( Event 29th June 2025)
             </a>
