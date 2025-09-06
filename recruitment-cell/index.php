@@ -74,6 +74,10 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                         <a style="font-weight: 400;" href="<?php echo $ROOTURL ?>public/assets/एप्रिल -2025 चिकित्सालयीन सहाय्यक निवडसंबंधीचे वेळापत्रक.pdf" target="_blank">
                             एप्रिल -2025 चिकित्सालयीन सहाय्यक निवडसंबंधीचे वेळापत्रक
                         </a>
+                    <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/application_for_night_duty_october.pdf" target="_blank">
+                           रात्रीच्या ड्युटीसाठी चिकित्सालयीन सहाय्यक पदांसाठी अर्ज मागविणेबाबत (दि. 28/09/2025 ते दि. 27/10/2026)
+                        </a>
                     </li>
                 </ol>
             </div>
