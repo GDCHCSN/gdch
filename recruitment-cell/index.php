@@ -77,7 +77,7 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/application_for_night_duty_october.pdf" target="_blank">
-                            रात्रीच्या ड्युटीसाठी चिकित्सालयीन सहाय्यक पदांसाठी अर्ज मागविणेबाबत (दि. 28/09/2025 ते दि. 27/10/2026)
+                            चिकित्सालयीन सहाय्यकांची पदे भरण्यासाठी अर्ज मागविण्याबाबत
                             <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
                     </li>
