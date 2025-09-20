@@ -78,12 +78,18 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/application_for_night_duty_october.pdf" target="_blank">
                             चिकित्सालयीन सहाय्यकांची पदे भरण्यासाठी अर्ज मागविण्याबाबत
-                            <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यक निवडसंबंधीचे वेळापत्रक.pdf" target="_blank">
                             चिकित्सालयीन सहाय्यक निवडसंबंधीचे वेळापत्रक
+                            <!-- <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
+                        </a>
+                    </li>
+                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/आवेदनपत्र स्वीकारण्यास एक दिवसाची मुदत वाढ देण्याबाबत.pdf" target="_blank">
+                          आवेदनपत्र स्वीकारण्यास एक दिवसाची मुदत वाढ देण्याबाबत
                             <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
                     </li>
