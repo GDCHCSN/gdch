@@ -93,6 +93,12 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                             <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
                     </li>
+                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यकांची यादी.pdf" target="_blank">
+                          चिकित्सालयीन सहाय्यकांची यादी
+                            <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
                 </ol>
                 <style>
                     @keyframes blink {
