@@ -108,11 +108,11 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                       <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/नियमित CA पदासाठी अंतरिम निवड यादी.pdf" target="_blank">
                          नियमित CA पदासाठी अंतरिम निवड यादी
-                            <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <span style="color:red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
                     </li>
                     <li>
-                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/" target="_blank">
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/ऑक्टोबर-2025 चिकित्साचिकित्सा सहाय्यक यांची अंतिम निवड यादी.pdf" target="_blank">
                         ऑक्टोबर-2025 चिकित्साचिकित्सा सहाय्यक यांची अंतिम निवड यादी
                             <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
