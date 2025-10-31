@@ -117,6 +117,30 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                             <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
                     </li>
+                    <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Assistant Professor Application form.pdf" target="_blank">
+                        Assistant Professor Application form
+                            <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/सहयोगी प्राध्यापक पद भरती जाहिरात.pdf" target="_blank">
+                        सहयोगी प्राध्यापक पद भरती जाहिरात 
+                            <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/सहयोगी प्राध्यापक पदाकरिता फॉर्म.pdf" target="_blank">
+                        सहयोगी प्राध्यापक पदाकरिता फॉर्म 
+                            <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/सहाय्यक प्राध्यापक, सामाजिक दंतशास्र विभाग ह्या पदासाठीची.pdf" target="_blank">
+                       सहाय्यक प्राध्यापक, सामाजिक दंतशास्र विभाग ह्या पदासाठीची
+                            <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
                 </ol>
                 <style>
                     @keyframes blink {
