@@ -55,6 +55,7 @@ $CURRENTDIRURL = $ROOTURL . "procurement-cell/";
                     <h3>2025-26</h3>
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/2025-26/canteen_tender_2025-26.pdf" target="_blank">Canteen Tender 2025-26</a></li>
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/2025-26/NOTICE FOR E-TENDER.pdf" target="_blank">E-Tender regarding purchase of Dental Equipment & Dental Materials as well as Consumables</a></li>
+                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/2025-26/Tander for Mess and Canteen.pdf" target="_blank">Tender for Hostel Mess and Canteen on Contract Basis </a></li>
                 </ul>
             </div> 
         </div>             
