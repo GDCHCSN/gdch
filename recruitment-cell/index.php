@@ -141,6 +141,12 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                             <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
                     </li>
+                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Not Eligible Candidate for Interview.pdf" target="_blank">
+                       Eligible/not-Eligible candidates for the interview for the post of Assistant Professor ( Public Health dentistry) purely on contract basis.
+                            <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
                 </ol>
                 <style>
                     @keyframes blink {
