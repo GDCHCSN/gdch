@@ -58,6 +58,9 @@ $CURRENTDIRURL = $ROOTURL . "procurement-cell/";
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/2025-26/Tander for Mess and Canteen.pdf" target="_blank">Tender for Hostel Mess and Canteen on Contract Basis </a></li>
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/2025-26/रुग्णालयीन कपडे धुलाईसाठी सेवा पुरवठादार नेमणेकामी दरपत्रक मागणीपत्र.pdf" target="_blank">रुग्णालयीन कपडे धुलाईसाठी सेवा पुरवठादार नेमणेकामी दरपत्रक मागणीपत्र</a></li>
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/2025-26/संगणक, प्रिंटर, सीसीटीव्ही वार्षिक सेवा करारासाठी दरपत्रक मोहोदबंद लिफाफे सादर करणेबाबत.pdf" target="_blank">संगणक, प्रिंटर, सीसीटीव्ही वार्षिक सेवा करारासाठी दरपत्रक मोहोदबंद लिफाफे सादर करणे</a></li>
+                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/2025-26/Books Quotation 2026.pdf" target="_blank">Books Quotation 2026</a></li>
+                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/2025-26/Journal Quotation 2026.pdf" target="_blank">Journal Quotation 2026</a></li>
+                </ul>
                 </ul>
                 </ul>
             </div> 
