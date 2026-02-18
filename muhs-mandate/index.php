@@ -153,7 +153,143 @@ $CURRENTDIRURL = $ROOTURL . "muhs-mandate/";
                 </ul>
             </div>
         </div>
+
+         <div class="main">
+            <div class="contentContainer">
+                <ul class="annexureContainer largeContentCard">
+                    <h3>DOWNLOADS (2026)</h3>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE I.pdf" target="_blank">
+                            Annexure 1
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE II.pdf" target="_blank">
+                            Annexure 2
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE III.pdf" target="_blank">
+                            Annexure 3
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE IV.pdf" target="_blank">
+                            Annexure 4
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE V.pdf" target="_blank">
+                            Annexure 5
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE VI.pdf" target="_blank">
+                            Annexure 6
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE VII.pdf" target="_blank">
+                            Annexure 7
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE VIII.pdf" target="_blank">
+                            Annexure 8
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE IX (PG TEACHER ).pdf" target="_blank">
+                            Annexure 9 (PG TEACHER)
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE IX.pdf" target="_blank">
+                            Annexure 9
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE X.pdf" target="_blank">
+                            Annexure 10
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE XI.pdf" target="_blank">
+                            Annexure 11
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE XII.pdf" target="_blank">
+                            Annexure 12
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE XIII.pdf" target="_blank">
+                            Annexure 13
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE XIV.pdf" target="_blank">
+                            Annexure 14
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE XV.pdf" target="_blank">
+                            Annexure 15
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE XVI.pdf" target="_blank">
+                            Annexure 16
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE XVII.pdf" target="_blank">
+                            Annexure 17
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE XVIII.pdf" target="_blank">
+                            Annexure 18
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/annexure_2026/ANNEXURE XIX.pdf" target="_blank" >
+                            Annexure 19
+                            <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $CURRENTDIRURL ?>assets/" target="_blank">
+                            
+                            <!-- <img src="<?php echo $ROOTURL ?>/public/assets/download_icon.svg"> -->
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
     </div>
+
+    
 
     <?php include($ROOT . "includes/_footer.php"); ?>
 
