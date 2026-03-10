@@ -90,69 +90,69 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/आवेदनपत्र स्वीकारण्यास एक दिवसाची मुदत वाढ देण्याबाबत.pdf" target="_blank">
                           आवेदनपत्र स्वीकारण्यास एक दिवसाची मुदत वाढ देण्याबाबत
-                            <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यकांची यादी.pdf" target="_blank">
                           चिकित्सालयीन सहाय्यकांची यादी
-                            <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Final Merit List Clinical Assistant.pdf" target="_blank">
                           Final Merit List Clinical Assistant
-                            <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>--->
                         </a>
                     </li>
                       <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/नियमित CA पदासाठी अंतरिम निवड यादी.pdf" target="_blank">
                          नियमित CA पदासाठी अंतरिम निवड यादी
-                            <span style="color:red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color:red; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/ऑक्टोबर-2025 चिकित्साचिकित्सा सहाय्यक यांची अंतिम निवड यादी.pdf" target="_blank">
                         ऑक्टोबर-2025 चिकित्साचिकित्सा सहाय्यक यांची अंतिम निवड यादी
-                            <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Assistant Professor Application form.pdf" target="_blank">
                         Assistant Professor Application form
-                            <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/सहयोगी प्राध्यापक पद भरती जाहिरात.pdf" target="_blank">
                         सहयोगी प्राध्यापक पद भरती जाहिरात 
-                            <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/सहयोगी प्राध्यापक पदाकरिता फॉर्म.pdf" target="_blank">
                         सहयोगी प्राध्यापक पदाकरिता फॉर्म 
-                            <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/सहाय्यक प्राध्यापक, सामाजिक दंतशास्र विभाग ह्या पदासाठीची.pdf" target="_blank">
                        सहाय्यक प्राध्यापक, सामाजिक दंतशास्र विभाग ह्या पदासाठीची
+                            <!-- <span style="color:; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
+                        </a>
+                    </li>
+                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यक एप्रिल -2026 ची 07 पदासाठीची जाहिरात.pdf" target="_blank">
+                      चिकित्सालयीन सहाय्यक एप्रिल -2026 ची 07 पदासाठीची जाहिरात
                             <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
                     </li>
-                     <!-- <li>
-                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Not Eligible Candidate for Interview.pdf" target="_blank">
-                       Eligible/not-Eligible candidates for the interview for the post of Assistant Professor ( Public Health dentistry) purely on contract basis.
-                            <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
-                        </a>
-                    </li> -->
-                     <!-- <li>
-                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/सहाय्यक प्राध्यापक या पदावर निवड झालेल्या उमेदवारांची यादी.pdf" target="_blank">
-                        सहाय्यक प्राध्यापक या पदावर निवड झालेल्या उमेदवारांची यादी
+                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यक निवडीसंबंधीचे वेळापत्रक एप्रिल-2026.pdf" target="_blank">
+                        चिकित्सालयीन सहाय्यक निवडीसंबंधीचे वेळापत्रक एप्रिल-2026
                             <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
-                    </li> -->
+                    </li>
                 </ol>
                 <style>
                     @keyframes blink {
