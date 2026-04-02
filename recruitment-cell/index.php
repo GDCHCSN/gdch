@@ -183,6 +183,30 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                             <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
                     </li>
+                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Deemed university final Merit List.pdf" target="_blank">
+                        Deemed university final Merit List
+                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
+                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Government Dental coll. & Hos. Chh. Sambhajinagar Final Merit List.pdf" target="_blank">
+                      Government Dental coll. & Hos. Chh. Sambhajinagar Final Merit List
+                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
+                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/government Dental College and Hospital Mumbai final Merit List.pdf" target="_blank">
+                      Government Dental College and Hospital Mumbai final Merit List
+                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
+                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Private Dental coll. & Hos. Chh. Sambhajinagar Final Merit List.pdf" target="_blank">
+                      Private Dental coll. & Hos. Chh. Sambhajinagar Final Merit List
+                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
                 </ol>
                 <style>
                     @keyframes blink {
