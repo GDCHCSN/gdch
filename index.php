@@ -58,7 +58,7 @@ $CURRENTDIRURL = $ROOTURL . "";
             <a href="<?php echo $ROOTURL ?>admission/">
                 Admissions
             </a>
-            <a href="<?php echo $ROOTURL ?>public/assets/NIRF-2025.pdf" target="_blank">
+            <a href="<?php echo $ROOTURL ?>public/assets/NIRF RANKING 2026.pdf" target="_blank">
                 NIRF Ranking
             </a>
         
