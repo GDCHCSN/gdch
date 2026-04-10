@@ -207,6 +207,18 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                             <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
                     </li>
+                    <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सा लाईन सहाय्यक (कॅज्युअल) पदासाठी अंतरिम निवड झालेल्या व प्रतीक्षा यादी.pdf" target="_blank">
+                      चिकित्सा लाईन सहाय्यक (कॅज्युअल) पदासाठी अंतरिम निवड झालेल्या व प्रतीक्षा यादी
+                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
+                     <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/नियमित चिकित्सलाईन सहाय्यक पदासाठी अंतरिम निवड यादी.pdf" target="_blank">
+                      नियमित चिकित्सलाईन सहाय्यक पदासाठी अंतरिम निवड यादी
+                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
                 </ol>
                 <style>
                     @keyframes blink {
