@@ -261,13 +261,13 @@ $CURRENTDIRURL = $ROOTURL . "";
                             <h4>Shri. Anil Bhandari</h4>
                             <p style="font-size:0.9rem; text-align:center">Commissioner, Medical Education and Ayush</p>
                         </div>
-                        <div class="patron-card">
+                        <!-- <div class="patron-card">
                             <div class="patron-image-wrapper">
                                 <img src="<?php echo $ROOTURL ?>assets/Ajay_Chandanwale.jpg" alt="Patron" loading="lazy" />
                             </div>
                             <h4>Dr. Ajay Chandanwale</h4>
                             <p style="font-size:0.9rem; text-align:center">Hon. Director, Medical Education and Research</p>
-                        </div>
+                        </div> -->
                         <div class="patron-card">
                             <div class="patron-image-wrapper">
                                 <img src="<?php echo $ROOTURL ?>assets/Vivek_Pakhmode.jpg" alt="Patron" loading="lazy" />
