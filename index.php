@@ -221,6 +221,20 @@ $CURRENTDIRURL = $ROOTURL . "";
                         </div>
                         <div class="patron-card">
                             <div class="patron-image-wrapper">
+                                <img src="<?php echo $ROOTURL ?>assets/CM_Eknath_Shinde.jpg" alt="Patron" loading="lazy" />
+                            </div>
+                            <h4>Shri. Eknath Shinde </h4>
+                            <p style="font-size:0.9rem; text-align:center">Dy. Chief Minister of Maharashtra</p>
+                        </div>
+                        <div class="patron-card">
+                            <div class="patron-image-wrapper">
+                                <img src="<?php echo $ROOTURL ?>assets/CM_Sunetra_Pawar.jpeg" alt="Patron" loading="lazy" />
+                            </div>
+                            <h4>Smt. Sunetra Ajit Pawar </h4>
+                            <p style="font-size:0.9rem; text-align:center">Dy. Chief Minister of Maharashtra</p>
+                        </div>
+                        <div class="patron-card">
+                            <div class="patron-image-wrapper">
                                 <img src="<?php echo $ROOTURL ?>assets/Hasan_Mushrif.jpg" alt="Patron" loading="lazy" />
                             </div>
                             <h4>Shri. Hasan Mushrif</h4>
