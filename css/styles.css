@@ -9,7 +9,7 @@
     display: flex;
     min-width: 100%;
     flex-shrink: 0;
-    animation: scroll infinite linear 40s;
+    animation: scroll infinite linear 60s;
 
 }
 

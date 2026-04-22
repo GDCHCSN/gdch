@@ -16,7 +16,7 @@ $CURRENTDIRURL = $ROOTURL . "";
     <title>Government Dental College & Hospital Chhatrapati Sambhajinagar</title>
     <link rel="canonical" href="https://gdchcsn.ac.in">
     <link rel="icon" type="image/x-icon" href="<?php echo $ROOTURL ?>public/assets/gdclogo1.png">
-
+     
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
     <script src="<?php echo $ROOTURL ?>js/main.js" defer></script>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css">
@@ -35,6 +35,7 @@ $CURRENTDIRURL = $ROOTURL . "";
 </head>
 
 <body>
+
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
