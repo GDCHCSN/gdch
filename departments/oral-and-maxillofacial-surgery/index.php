@@ -241,6 +241,128 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
                         Dental Surgeon
                     </p>
                 </div>
+<!----------------------------------added new ----------------------------------------------->
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Joseph Naveen Kanuri/Joseph Naveen Kanuri.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a type="application/pdf" target="_blank" >
+                       Dr. Joseph Naveen Kanuri
+                    </a>
+                    <p>
+                       Post Graduate (2nd year)
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Malvika Raj/Malvika Raj.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a type="application/pdf" target="_blank" >
+                      Dr. Malvika Raj
+                    </a>
+                    <p>
+                        Post Graduate (1st year)
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Radhika Nandkishor Channe/Radhika Nandkishor Channe.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a type="application/pdf" target="_blank" >
+                       Dr. Radhika Nandkishor Channe
+                    </a>
+                    <p>
+                       Post Graduate (2nd year)
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ataur Rahman/Ataur Rahman.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a type="application/pdf" target="_blank" >
+                       Dr. Ataur Rahman 
+                    </a>
+                    <p>
+                        Assistant professor 
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Kshitija Pandhare/Kshitija Pandhare.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a type="application/pdf" target="_blank" >
+                       Dr. Kshitija Pandhare
+                    </a>
+                    <p>
+                        Assistant Professor 
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Anjali Arvind Meahram/Anjali Arvind Meahram.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a type="application/pdf" target="_blank" >
+                        Dr.Anjali Arvind Meahram
+                    </a>
+                    <p>
+                       Post Graduate (3rd year)
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aishwarya Salve/Aishwarya Salve.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a type="application/pdf" target="_blank" >
+                      Dr. Aishwarya Salve
+                    </a>
+                    <p>
+                       Post Graduate (3rd year)
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sayyed Arsheen Moazzam Ali/Sayyed Arsheen Moazzam Ali.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a type="application/pdf" target="_blank" >
+                       Dr. Sayyed Arsheen Moazzam Ali
+                    </a>
+                    <p>
+                       Post Graduate (1st year)
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Manisha Madhukar Ambhore/Manisha Madhukar Ambhore.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a type="application/pdf" target="_blank" >
+                       Dr. Manisha Madhukar Ambhore
+                    </a>
+                    <p>
+                        Post Graduate (3rd year)
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ahire Bhavisha/Bhavisha Ahire.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a type="application/pdf" target="_blank" >
+                       Dr. Ahire Bhavisha Sudhakar
+                    </a>
+                    <p>
+                        Post Graduate (1st year)
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Mehak Kataria/Mehak Kataria.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a type="application/pdf" target="_blank" >
+                      Dr. Mehak Kataria
+                    </a>
+                    <p>
+                        Assistant Professor
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Raahil Abdul Kader/Raahil Abdul Kader.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a type="application/pdf" target="_blank" >
+                       Dr. Raahil Abdul Kader
+                    </a>
+                    <p>
+                       Post Graduate (2nd year)
+                    </p>
+                </div>
+<!--------------------------------------end here---------------------------------->
+
             </div>
         </div>
 

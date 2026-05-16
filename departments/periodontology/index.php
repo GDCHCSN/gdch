@@ -248,9 +248,115 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
                     </a>
                     <p>Dental Surgeon, Dept. of Periodontology</p>
                 </div>
+
+<!------------------------------------------added new ------------------------------------------>
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Rashmi Suresh Dadmal/Rashmi Suresh Dadmal.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                       Dr. Rashmi Suresh Dadmal
+                    </a>
+                    <p>Assistant Professor, Dept. of Periodontology</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Iyyappan R/Iyyappan R.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                        Dr. Iyyappan R 
+                    </a>
+                    <p>Assistant Professor, Dept. of Periodontology</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sandhya Sheshrao Rathod/Sandhya Sheshrao Rathod.png" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                       Dr. Sandhya Sheshrao Rathod 
+                    </a>
+                    <p>Associate Professor, Dept. of Periodontology</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Thenmozhi/Thenmozhi.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                       Dr. Thenmozhi.B.R 
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Periodontology</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shubham Pramodrao Pande/Shubham Pramodrao Pande.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                       Dr. Shubham Pramodrao Pande
+                    </a>
+                    <p>Assistant Professor, Dept. of Periodontology</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Hiroj Siddharth Bagde/Hiroj Siddharth Bagde.jpeg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                       Dr. Hiroj Siddharth Bagde
+                    </a>
+                    <p>Associate Professor, Dept. of Periodontology</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aishwarya Rajendra Mulay/Aishwarya Rajendra Mulay.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                       Dr. Aishwarya Rajendra Mulay
+                    </a>
+                    <p>Post Graduate (3rd Year), Dept. of Periodontology</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Madhu Varma/Madhu Varma.jpeg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                        Dr. Madhu Varma
+                    </a>
+                    <p>Post Graduate (3rd Year), Dept. of Periodontology</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pawan Kumar/Pawan Kumar.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                       Dr. Pawan Kumar 
+                    </a>
+                    <p>Post Graduate (3rd Year), Dept. of Periodontology</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Bhagyashree Bothikar/Bhagyashree Bothikar.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                       Dr. Bhagyashree Bothikar 
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Periodontology</p>
+                </div>
+
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vaidehi singh/Vaidehi singh.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                       Dr. Vaidehi singh
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Periodontology</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pawan M. Hargunani/Pawan M. Hargunani.png" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                       Dr. Pawan M. Hargunani 
+                    </a>
+                    <p>Assistant Professor, Dept. of Periodontology</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Komal shahaji chindhe/Komal shahaji chindhe.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="#">
+                       Dr.Komal shahaji chindhe 
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Periodontology</p>
+                </div>
             </div>
         </div>
-        <!--  -->
+<!-----------------------------------------------end here------------------------------------->
 
         <div>
             <h2>Gallery</h2>
@@ -279,5 +385,4 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
     <?php include($ROOT . "includes/_footer.php"); ?>
 
 </body>
-
 </html>

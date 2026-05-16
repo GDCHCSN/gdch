@@ -278,6 +278,47 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
                     </a>
                     <p>Dental Surgeon, Dept. of Public Health Dentistry</p>
                 </div>
+    <!-------new added ------->
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Swarali Nijling Tarwadge/Swarali Nijling Tarwadge.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                        Dr. Swarali Nijling Tarwadge
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Public Health Dentistry</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Suraj Baburao Jadhav/Suraj Baburao Jadhav.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                       Dr. Suraj Baburao Jadhav
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Public Health Dentistry</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Harshada Nitin Bhore.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                        Dr. Harshada Nitin Bhore
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Public Health Dentistry</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Mehul Ajit Shah.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                        Dr. Mehul Ajit Shah 
+                    </a>
+                    <p>Staff, Dept. of Public Health Dentistry</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shruti R. Pundkar.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                       Dr. Shruti R. Pundkar
+                    </a>
+                    <p>Assistant Professor, Dept. of Public Health Dentistry</p>
+                </div>
+
 
 
             </div>

@@ -320,6 +320,118 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
                         Dental Surgeon
                     </p>
                 </div>
+           
+<!-----------------------------------added new ------------------------->
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/simran satnani/Simran Satnani.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a  type="application/pdf" target="_blank" >
+                        Dr. Simran Dilipkumar Satnani
+                    </a>
+                    <p>
+                        Post Graduate (2nd Year)
+                    </p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Anish Kumar/Anish Kumar.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a  type="application/pdf" target="_blank" >
+                       Dr. Anish Kumar
+                    </a>
+                    <p>
+                        Post Graduate (1st Year)
+                    </p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ishwari Garad/ishwari Garad.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a  type="application/pdf" target="_blank" >
+                       Dr. Ishwari Manikrao Garad
+                    </a>
+                    <p>
+                        Post Graduate (3rd Year)
+                    </p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pornima Gawali/Pornima Gawali.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a  type="application/pdf" target="_blank" >
+                        Dr. Pornima Gawali
+                    </a>
+                    <p>
+                         Post Graduate (2nd Year)
+                    </p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ranajoy Banerjee/Ranajoy Banerjee.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a  type="application/pdf" target="_blank" >
+                       Dr. Ranajoy Banerjee
+                    </a>
+                    <p>
+                      Post Graduate (3rd Year)
+                    </p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Chavda Bipinkumar/Chavda Bipinkumar Ganpatbhai.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a  type="application/pdf" target="_blank" >
+                        Dr. Chavda Bipinkumar Ganpatbhai 
+                    </a>
+                    <p>
+                         Post Graduate (1st Year)
+                    </p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vidya Bhamare/Vidya Bhamare.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a  type="application/pdf" target="_blank" >
+                      Dr.Vidya Bhamare 
+                    </a>
+                    <p>
+                        Post Graduate (3rd Year)
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Diksha Jagtap/Diksha Jagtap.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a  type="application/pdf" target="_blank" >
+                     Dr. Diksha Jagtap
+                    </a>
+                    <p>
+                       Post Graduate (1st Year) 
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/SANGHARSH GAIKWAD/SANGHARSH GAIKWAD.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a  type="application/pdf" target="_blank" >
+                      Dr. SANGHARSH GAIKWAD
+                    </a>
+                    <p>
+                       Post Graduate (2nd Year)  
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dyaneshwar Rathod/Dyaneshwar Rathod.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a  type="application/pdf" target="_blank" >
+                      Dr.Dyaneshwar Rathod
+                    </a>
+                    <p>
+                       Assistant Professor
+                    </p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Gayatri Kale/Gayatri Kale.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a  type="application/pdf" target="_blank" >
+                      Dr.Gayatri Kale 
+                    </a>
+                    <p>
+                      Assistant Professor
+                    </p>
+                </div>
+  <!------------------------------end here------------------------------------>              
             </div>
         </div>
 

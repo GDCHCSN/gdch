@@ -174,6 +174,23 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
                     <p>Bonded Lecturer, Dept. of Pediatric and Preventive Dentistry</p>
                 </div>
                 
+ <!----------------------------------------added new------------------------------------->
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/PRITESH GAWALI.jpeg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a>
+                       Dr Pritesh Gawali
+                    </a>
+                    <p>Associate Professor and Hod, Dept. of Pediatric and Preventive Dentistry</p>
+                </div>
+                
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pankaj Chavhan.jpeg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a>
+                      Dr. Pankaj Dayaram Chavhan 
+                    </a>
+                    <p>Associate Professor, Dept. of Pediatric and Preventive Dentistry</p>
+                </div>
+            
                 
             </div>
         </div>

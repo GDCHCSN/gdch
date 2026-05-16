@@ -221,7 +221,103 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                     </a>
                     <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
                 </div>
+  <!-----------------------------------new added------------------------>              
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shraddha Shinde.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a>
+                      Dr. Shraddha Shinde 
+                    </a>
+                    <p>Dental surgeon , Dept. of Conservative Dentistry</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr.Aditi Magar.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a>
+                        Dr.Aditi Magar
+                    </a>
+                    <p>Assistant professor, Dept. of Conservative Dentistry</p>
+                </div>
                 
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shruti Bajaj.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a>
+                       Dr. Shruti Bajaj
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Conservative Dentistry</p>
+                </div>
+                
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vishal Jawadwad.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a>
+                      Dr. Vishal Jawadwad
+                    </a>
+                    <p>Post Gradaute (3rd Year), Dept. of Conservative Dentistry</p>
+                </div>
+                
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ramitha H D.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a>
+                      Dr. RAMITHA H D
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Conservative Dentistry</p>
+                </div>
+                
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Swapnil Mundhe.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a>
+                       Dr. Swapnil Mundhe 
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Conservative Dentistry</p>
+                </div>
+                
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr Disha Kotak.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a>
+                     Dr. Disha Dilip Kotak 
+                    </a>
+                    <p>Post Gradaute (1st Year), Dept. of Conservative Dentistry</p>
+                </div>
+                
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Madhura Dange.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a>
+                      Dr.Madhura Dange
+                    </a>
+                    <p>Post Gradaute (3rd Year), Dept. of Conservative Dentistry</p>
+                </div>
+                
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shriya.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a>
+                      Dr. Shriya Ostwal
+                    </a>
+                    <p>Post Gradaute (3rd Year), Dept. of Conservative Dentistry</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Manav Modi.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a>
+                     Dr. Manav Modi
+                    </a>
+                    <p>Post Gradaute (2nd Year), Dept. of Conservative Dentistry</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr varsha deokar.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a>
+                     Dr. Varsha Deokar
+                    </a>
+                    <p>Dental Surgeon, Dept. of Conservative Dentistry</p>
+                </div>
+
+<!------------------------------end here----------------------------------------------->
                 
             </div>
         </div>

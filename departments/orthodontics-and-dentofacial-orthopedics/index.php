@@ -166,6 +166,63 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                     <p>Associate Professor, Dept. of Orthodontics</p>
                 </div>
 
+<!-------------------------------------------------added new----------------------------------------->
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shreya Chandanbarve/Shreya Chandanbarve.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
+                       Dr. Shreya Chandanbarve 
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Orthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Atharva Deshmukh/Atharva Deshmukh.jpeg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
+                        Dr. Atharva Deshmukh
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Orthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Prachi Jawade/Prachi Jawade.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
+                        Dr. Prachi Jawade 
+                    </a>
+                    <p>Post Graduate (3rd Year), Dept. of Orthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Kiruba Nandhini/Kiruba Nandhini.jpeg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
+                        Dr. Kiruba Nandhini P S
+                    </a>
+                    <p>Assistant professor, Dept. of Orthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Karthika V/Karthika V.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
+                       Dr. Karthika V
+                    </a>
+                    <p>Post Graduate (3rd Year), Dept. of Orthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sneha Shah/Sneha Shah.jpeg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
+                       Dr. Sneha Shah
+                    </a>
+                    <p>Post Graduate (3rd Year), Dept. of Orthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Lalhmangaih Zuala/Lalhmangaih Zuala.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
+                       Dr. Lalhmangaih Zuala
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Orthodontics</p>
+                </div>
+<!--------------------------------------------end here------------------------------------>
             </div>
         </div>
 

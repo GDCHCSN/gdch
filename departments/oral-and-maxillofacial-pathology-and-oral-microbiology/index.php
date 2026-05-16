@@ -214,8 +214,51 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
                     </a>
                     <p>Biochemist, Dept. of Oral Pathology</p>
                 </div>
+<!----------------------------------------added new--------------------------------->
+                  <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vaishnavi Marge/Vaishnavi Marge.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a href="" type="application/pdf" target="_blank">
+                       Dr. Vaishnavi Marge
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Oral Pathology</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Harshika Sikhwal/Harshika Sikhwal.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a href="" type="application/pdf" target="_blank">
+                       Dr. Harshika Sikhwal 
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Oral Pathology</p>
+                </div>
 
 
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vaishnavi Choudhary/Vaishnavi Choudhary.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a href="" type="application/pdf" target="_blank">
+                       Dr.Vaishnavi Choudhary 
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Oral Pathology</p>
+                </div>
+
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Akshaya Raj/Akshaya Raj.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a href="" type="application/pdf" target="_blank">
+                       Dr. Akshaya Raj
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Oral Pathology</p>
+                </div>
+
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aishwarya Karhale/Aishwarya Karhale.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a href="" type="application/pdf" target="_blank">
+                       Dr. Aishwarya Karhale
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Oral Pathology</p>
+                </div>
+
+<!------------------------------------end here------------------------------------------>               
             </div>
         </div>
 

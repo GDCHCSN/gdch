@@ -203,6 +203,131 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     </a>
                     <p>Assistant Profesor, Dept. of Prosthodontics</p>
                 </div>
+<!----------new added----------------------------------->
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Bhushan Krishna chalmela/Bhushan Krishna chalmela.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                       Dr. Bhushan Krishna chalmela 
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Prosthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/VILAS LAXMAN RAJGURU/VILAS LAXMAN RAJGURU.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                       Dr. VILAS LAXMAN RAJGURU
+                    </a>
+                    <p>Staff, Dept. of Prosthodontics</p>
+                </div>
+          
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sonali Vishal Mahajan/Sonali Vishal Mahajan.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                        Dr. Sonali Vishal Mahajan
+                    </a>
+                    <p>Associate Professor, Dept. of Prosthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ifrah Khan/Ifrah Khan.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                       Dr. Ifrah Khan
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Prosthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pankaj Dumbare/Pankaj Dumbare.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                      Dr. Pankaj Dumbare
+                    </a>
+                    <p>Profesor, Dept. of Prosthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Mayuri Balkrishna Shinde/Mayuri Balkrishna Shinde.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                       Dr. Mayuri Balkrishna Shinde 
+                    </a>
+                    <p>Post Graduate (3rd Year), Dept. of Prosthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sayali Jadhav/Sayali Jadhav.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                       Dr. Sayali Jadhav
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Prosthodontics</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Anu Talom/Anu Talom.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                      Dr. Anu Talom 
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Prosthodontics</p>
+                </div>
+
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sakshi Bovalekar/Sakshi Bovalekar.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                     Dr. Sakshi Bovalekar 
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Prosthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Siddesh Kalkar/Siddesh Kalkar.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                     Dr. Siddesh Kalkar 
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Prosthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Lokesh P M/Lokesh P M.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                     Dr. Lokesh P M
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Prosthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Gopika Gopan/Gopika Gopan.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                      Dr. Gopika Gopan
+                    </a>
+                    <p>Assistant Profesor, Dept. of Prosthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Eva Jain/Eva Jain.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                      Dr. Eva Jain
+                    </a>
+                    <p>Post Graduate (3rd Year), Dept. of Prosthodontics</p>
+                </div>
+
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Rasika Bansode/Rasika Bansode.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                     Dr. Rasika Bansode
+                    </a>
+                    <p>Post Graduate (3rd Year), Dept. of Prosthodontics</p>
+                </div>
+
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sharayu Bangar/Sharayu Bangar.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                       Dr. Sharayu Bangar 
+                    </a>
+                    <p>Post Graduate (3rd Year), Dept. of Prosthodontics</p>
+                </div>
+
+<!----------------------------end here------------------->
             </div>
         </div>
 
