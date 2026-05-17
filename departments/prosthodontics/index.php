@@ -208,7 +208,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <p><strong>Email: </strong></p>
                 </div>
 
-
                 <div class="facultyCard">
                     <img src="<?php echo $ROOTURL ?>public/assets/doctor.png" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="#" type="application/pdf">
@@ -245,7 +244,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <p>Post Graduate (3rd Year), Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong>evajain2507@gmail.com</p>
                 </div>
-                
+
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Sonali Chandrakant Khedkar/Sonali Chandrakant Khedkar.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
