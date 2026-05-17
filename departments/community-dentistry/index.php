@@ -273,7 +273,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
                         Dr. Pradnya Jadhav
                     </a>
                     <p>Assistant Professor, Dept. of Public Health Dentistry</p>
-                    <p><strong>Email: </strong></p>
+                    <p><strong>Email: </strong>drpradnya789@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
