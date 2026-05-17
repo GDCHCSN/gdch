@@ -28,7 +28,8 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
     </link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css">
     </link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css">
+    </link>
 </head>
 
 <body>
@@ -36,7 +37,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"  loading="lazy"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
             DEPARTMENT OF COMMUNITY DENTISTRY
         </h1>
@@ -244,99 +245,105 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
         </div>
         <div class="facultyContainer marginTop">
             <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"  loading="lazy"/>
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"  loading="lazy"/>
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
                 <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Jagdishchandra Vathar.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Jagdishchandra Vathar.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Jagdishchandra-Vathar/Jagdishchandra-Vathar.pdf" type="application/pdf" target="_blank">
                         Dr. Jagdishchandra-Vathar
                     </a>
                     <p>Professor and Head, Dept. of Public Health Dentistry</p>
+                    <p><strong>Email: </strong>drjagdish.v@rediffmail.com</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Harshal bafna.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Harshal bafna.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
                         Dr. Harshal bafna
                     </a>
                     <p>Associate Professor, Dept. of Public Health Dentistry</p>
+                    <p><strong>Email: </strong>bafnaharshalg@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Pradnya Jadhav.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Pradnya Jadhav.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
                         Dr. Pradnya Jadhav
                     </a>
                     <p>Assistant Professor, Dept. of Public Health Dentistry</p>
+                    <p><strong>Email: </strong></p>
                 </div>
+
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Vibhakar Mote.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shruti R. Pundkar.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                        Dr. Shruti R. Pundkar
+                    </a>
+                    <p>Assistant Professor, Dept. of Public Health Dentistry</p>
+                    <p><strong>Email: </strong>shrutipundkar@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Vibhakar Mote.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
                         Dr. Vibhakar Mote
                     </a>
                     <p>Dental Surgeon, Dept. of Public Health Dentistry</p>
+                    <p><strong>Email: </strong></p>
                 </div>
-    <!-------new added ------->
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Swarali Nijling Tarwadge/Swarali Nijling Tarwadge.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                <!-------new added ------->
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Mehul Ajit Shah.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                        Dr. Mehul Ajit Shah
+                    </a>
+                    <p>Staff, Dept. of Public Health Dentistry</p>
+                    <p><strong>Email: </strong>mehulshah1126@gmail.com</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Swarali Nijling Tarwadge/Swarali Nijling Tarwadge.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
                         Dr. Swarali Nijling Tarwadge
                     </a>
                     <p>Post Graduate (1st Year), Dept. of Public Health Dentistry</p>
+                    <p><strong>Email: </strong>tswarali14@gmail.com</p>
                 </div>
 
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Suraj Baburao Jadhav/Suraj Baburao Jadhav.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Suraj Baburao Jadhav/Suraj Baburao Jadhav.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
-                       Dr. Suraj Baburao Jadhav
+                        Dr. Suraj Baburao Jadhav
                     </a>
                     <p>Post Graduate (1st Year), Dept. of Public Health Dentistry</p>
+                    <p><strong>Email: </strong>sbj4938@gmail.com</p>
                 </div>
 
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Harshada Nitin Bhore.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Harshada Nitin Bhore.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
                         Dr. Harshada Nitin Bhore
                     </a>
                     <p>Post Graduate (1st Year), Dept. of Public Health Dentistry</p>
+                    <p><strong>Email: </strong>harshadabhore30@gmail.com</p>
                 </div>
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Mehul Ajit Shah.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
-                        Dr. Mehul Ajit Shah 
-                    </a>
-                    <p>Staff, Dept. of Public Health Dentistry</p>
-                </div>
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shruti R. Pundkar.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
-                       Dr. Shruti R. Pundkar
-                    </a>
-                    <p>Assistant Professor, Dept. of Public Health Dentistry</p>
-                </div>
-
-
-
             </div>
         </div>
         <div>
             <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_8893.JPG" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_8893.JPG" alt="Department Image" loading="lazy" />
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_5671.JPG" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_5671.JPG" alt="Department Image" loading="lazy" />
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_8903.JPG" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_8903.JPG" alt="Department Image" loading="lazy" />
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_8917.JPG" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_8917.JPG" alt="Department Image" loading="lazy" />
                 </div>
 
             </div>

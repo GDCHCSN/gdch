@@ -158,12 +158,14 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
                 <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
+            
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/PRITESH GAWALI.jpeg" alt="faculty" width="200" height="200"  loading="lazy" />
                     <a>
                        Dr Pritesh Gawali
                     </a>
                     <p>Associate Professor and Hod, Dept. of Pediatric and Preventive Dentistry</p>
+                    <p><strong>Email: </strong>drpriteshgawali@gmail.com</p>
                 </div>
                 
                 <div class="facultyCard">
@@ -172,6 +174,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
                         Dr. Chaitali Mirajkar
                     </a>
                     <p>Associate Professor, Dept. of Pediatric and Preventive Dentistry</p>
+                    <p><strong>Email: </strong>chaitalikmirajkar@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
@@ -180,6 +183,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
                       Dr. Pankaj Dayaram Chavhan 
                     </a>
                     <p>Associate Professor, Dept. of Pediatric and Preventive Dentistry</p>
+                    <p><strong>Email: </strong>drpankajchavhan@gmail.com</p>
                 </div>
                 
                 <div class="facultyCard">
@@ -188,6 +192,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
                         Dr. Shivani Bhadule
                     </a>
                     <p>Bonded Lecturer, Dept. of Pediatric and Preventive Dentistry</p>
+                    <p><strong>Email: </strong></p>
                 </div>
             </div>
         </div>

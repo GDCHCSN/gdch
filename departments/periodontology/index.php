@@ -28,7 +28,8 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
     </link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css">
     </link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css">
+    </link>
 </head>
 
 <body>
@@ -36,7 +37,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"  loading="lazy" />
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
             DEPARTMENT OF PERIODONTOLOGY
         </h1>
@@ -80,70 +81,70 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
 
         <div class="largeContentCard">
             <h2>PATIENTS SERVICE</h2>
-                <ul>
-                    <li>Scaling and root planning</li>
-                    <li>Occlusal Therapy –Coronoplasty, Splinting</li>
-                    <li>
-                        Hypersensitivity treatment by Iontophoresis, laser, bonding agents
-                        etc
-                    </li>
-                    <li>Local Drug delivery</li>
-                    <li>Subgingival Curettage</li>
-                    <li>Gingivectomy</li>
-                    <li>Operculectomy</li>
-                    <li>Various types of Flap surgeries</li>
-                    <li>Osseous Resective surgeries</li>
-                    <li>
-                        Regenerative procedures – GTR, Bone Grafts, Root
-                        Biomodification,Growth Factors
-                    </li>
-                    <li>Ozone therapy</li>
-                    <li>Periodontal Plastic surgeries :
-                        <ol class="list_inside">
-                            <li>Frenectomy</li>
-                            <li>Frenotomy</li>
-                            <li>Vestibuloplasty</li>
-                            <li>Lateral pedicle</li>
-                            <li>Bipedical flap</li>
-                            <li>Coronally positioned flap</li>
-                            <li>Free gingival graft</li>
-                            <li>Connective tissue graft</li>
-                            <li>Subepithelial connective tissue graft</li>
-                        </ol>
+            <ul>
+                <li>Scaling and root planning</li>
+                <li>Occlusal Therapy –Coronoplasty, Splinting</li>
+                <li>
+                    Hypersensitivity treatment by Iontophoresis, laser, bonding agents
+                    etc
+                </li>
+                <li>Local Drug delivery</li>
+                <li>Subgingival Curettage</li>
+                <li>Gingivectomy</li>
+                <li>Operculectomy</li>
+                <li>Various types of Flap surgeries</li>
+                <li>Osseous Resective surgeries</li>
+                <li>
+                    Regenerative procedures – GTR, Bone Grafts, Root
+                    Biomodification,Growth Factors
+                </li>
+                <li>Ozone therapy</li>
+                <li>Periodontal Plastic surgeries :
+                    <ol class="list_inside">
+                        <li>Frenectomy</li>
+                        <li>Frenotomy</li>
+                        <li>Vestibuloplasty</li>
+                        <li>Lateral pedicle</li>
+                        <li>Bipedical flap</li>
+                        <li>Coronally positioned flap</li>
+                        <li>Free gingival graft</li>
+                        <li>Connective tissue graft</li>
+                        <li>Subepithelial connective tissue graft</li>
+                    </ol>
 
-                    </li>
-                </ul>
+                </li>
+            </ul>
 
-                <ul>
-                    <li class="list-heading">Miscellaneous Surgical Procedures:
-                        <ol class="list_inside">
-                            <li>Abscess drainage</li>
-                            <li>Gingival depigmentation</li>
-                            <li>Epulis excisions</li>
-                            <li>Distal molar surgery</li>
-                            <li>Tunnel Preparation</li>
-                        </ol>
-                    </li>
-                    <li class="list-heading">Interdisciplinary Treatment Modalities
-                        <ul class="list_inside">
-                            <li>Endodontic-Periodontic Lesions</li>
-                            <li>Hemisection & Bicuspidization</li>
-                            <li>Root Resection</li>
-                            <li>
-                                Perio-Prosthetic interrelationship
-                                <ol>
-                                    <li>Crown Lengthening</li>
-                                    <li>Ridge Augmentation</li>
-                                </ol>
-                            </li>
-                            <li>
-                                <span> Implant surgeries – </span> Basic
-                                and advanced Implant surgeries
-                            </li>
-                            <li>Laser Surgeries</li>
-                        </ul>
-                    </li>
-                </ul>
+            <ul>
+                <li class="list-heading">Miscellaneous Surgical Procedures:
+                    <ol class="list_inside">
+                        <li>Abscess drainage</li>
+                        <li>Gingival depigmentation</li>
+                        <li>Epulis excisions</li>
+                        <li>Distal molar surgery</li>
+                        <li>Tunnel Preparation</li>
+                    </ol>
+                </li>
+                <li class="list-heading">Interdisciplinary Treatment Modalities
+                    <ul class="list_inside">
+                        <li>Endodontic-Periodontic Lesions</li>
+                        <li>Hemisection & Bicuspidization</li>
+                        <li>Root Resection</li>
+                        <li>
+                            Perio-Prosthetic interrelationship
+                            <ol>
+                                <li>Crown Lengthening</li>
+                                <li>Ridge Augmentation</li>
+                            </ol>
+                        </li>
+                        <li>
+                            <span> Implant surgeries – </span> Basic
+                            and advanced Implant surgeries
+                        </li>
+                        <li>Laser Surgeries</li>
+                    </ul>
+                </li>
+            </ul>
         </div>
 
 
@@ -194,183 +195,201 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
         <!--  -->
         <div class="facultyContainer">
             <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"  loading="lazy" />
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"  loading="lazy" />
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
                 <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Maya-Indurkar/Photo.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Maya-Indurkar/Photo.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Maya-Indurkar/Dr-Maya-Indurkar.pdf" type="application/pdf" target="_blank">
                         Dr. Maya Indurkar
                     </a>
                     <p>Professor & Dean, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Chandulal-Dhalkari/Photo.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Chandulal-Dhalkari/Photo.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Chandulal-Dhalkari/Chandulal-Dhalkari.pdf" type="application/pdf" target="_blank">
                         Dr. Chandulal Digambarrao Dhalkari
                     </a>
                     <p>Professor and Head, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ashok-Bhansali/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ashok-Bhansali/Photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Ashok-Bhansali/Ashok-Bhansali.pdf" type="application/pdf" target="_blank">
                         Dr. Ashok Bhansali
                     </a>
                     <p>Associate profesor, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>bhansali_ak@rediffmail.com</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Apurva-Dashputra/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Hiroj Siddharth Bagde/Hiroj Siddharth Bagde.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="#">
+                        Dr. Hiroj Siddharth Bagde
+                    </a>
+                    <p>Associate Professor, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>hirojbagde8@gmail.com</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sandhya Sheshrao Rathod/Sandhya Sheshrao Rathod.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="#">
+                        Dr. Sandhya Sheshrao Rathod
+                    </a>
+                    <p>Associate Professor, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>sandhyarathod84@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Apurva-Dashputra/Photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="#">
                         Dr. Apurva Dashputra
                     </a>
                     <p>Assistant profesor, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Soma-Sindhuja/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Soma-Sindhuja/Photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="#">
                         Dr. Soma Sindhuja K
                     </a>
                     <p>Assistant profesor, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Swathy-Krishna/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Swathy-Krishna/Photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="#">
                         Dr. Swathy Krishna J
                     </a>
                     <p>Assistant profesor, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Varsha-Deokar/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Rashmi Suresh Dadmal/Rashmi Suresh Dadmal.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="#">
+                        Dr. Rashmi Suresh Dadmal
+                    </a>
+                    <p>Assistant Professor, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>rsdadmal.rd@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Iyyappan R/Iyyappan R.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="#">
+                        Dr. Iyyappan R
+                    </a>
+                    <p>Assistant Professor, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>iyyappan14ram@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shubham Pramodrao Pande/Shubham Pramodrao Pande.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="#">
+                        Dr. Shubham Pramodrao Pande
+                    </a>
+                    <p>Assistant Professor, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>drshubhampande@gmail.com</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pawan M. Hargunani/Pawan M. Hargunani.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="#">
+                        Dr. Pawan M. Hargunani
+                    </a>
+                    <p>Assistant Professor, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>hargunani.pawan@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Varsha-Deokar/Photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="#">
                         Dr. Varsha Deokar
                     </a>
                     <p>Dental Surgeon, Dept. of Periodontology</p>
+                    <p><strong>Email: </strong></p>
                 </div>
 
 <!------------------------------------------added new ------------------------------------------>
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Rashmi Suresh Dadmal/Rashmi Suresh Dadmal.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aishwarya Rajendra Mulay/Aishwarya Rajendra Mulay.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="#">
-                       Dr. Rashmi Suresh Dadmal
-                    </a>
-                    <p>Assistant Professor, Dept. of Periodontology</p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Iyyappan R/Iyyappan R.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
-                    <a href="#">
-                        Dr. Iyyappan R 
-                    </a>
-                    <p>Assistant Professor, Dept. of Periodontology</p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sandhya Sheshrao Rathod/Sandhya Sheshrao Rathod.png" alt="faculty" width="200" height="200"  loading="lazy" />
-                    <a href="#">
-                       Dr. Sandhya Sheshrao Rathod 
-                    </a>
-                    <p>Associate Professor, Dept. of Periodontology</p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Thenmozhi/Thenmozhi.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
-                    <a href="#">
-                       Dr. Thenmozhi.B.R 
-                    </a>
-                    <p>Post Graduate (1st Year), Dept. of Periodontology</p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shubham Pramodrao Pande/Shubham Pramodrao Pande.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
-                    <a href="#">
-                       Dr. Shubham Pramodrao Pande
-                    </a>
-                    <p>Assistant Professor, Dept. of Periodontology</p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Hiroj Siddharth Bagde/Hiroj Siddharth Bagde.jpeg" alt="faculty" width="200" height="200"  loading="lazy" />
-                    <a href="#">
-                       Dr. Hiroj Siddharth Bagde
-                    </a>
-                    <p>Associate Professor, Dept. of Periodontology</p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aishwarya Rajendra Mulay/Aishwarya Rajendra Mulay.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
-                    <a href="#">
-                       Dr. Aishwarya Rajendra Mulay
+                        Dr. Aishwarya Rajendra Mulay
                     </a>
                     <p>Post Graduate (3rd Year), Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>armulay3@gmail.com</p>
                 </div>
 
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Madhu Varma/Madhu Varma.jpeg" alt="faculty" width="200" height="200"  loading="lazy" />
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Madhu Varma/Madhu Varma.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="#">
                         Dr. Madhu Varma
                     </a>
                     <p>Post Graduate (3rd Year), Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>varmamadhu66@gmail.com</p>
                 </div>
 
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pawan Kumar/Pawan Kumar.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pawan Kumar/Pawan Kumar.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="#">
-                       Dr. Pawan Kumar 
+                        Dr. Pawan Kumar
                     </a>
                     <p>Post Graduate (3rd Year), Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>Pawankumar151997@gmail.com</p>
                 </div>
 
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Bhagyashree Bothikar/Bhagyashree Bothikar.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Komal shahaji chindhe/Komal shahaji chindhe.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="#">
-                       Dr. Bhagyashree Bothikar 
-                    </a>
-                    <p>Post Graduate (1st Year), Dept. of Periodontology</p>
-                </div>
-
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vaidehi singh/Vaidehi singh.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
-                    <a href="#">
-                       Dr. Vaidehi singh
-                    </a>
-                    <p>Post Graduate (1st Year), Dept. of Periodontology</p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pawan M. Hargunani/Pawan M. Hargunani.png" alt="faculty" width="200" height="200"  loading="lazy" />
-                    <a href="#">
-                       Dr. Pawan M. Hargunani 
-                    </a>
-                    <p>Assistant Professor, Dept. of Periodontology</p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Komal shahaji chindhe/Komal shahaji chindhe.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
-                    <a href="#">
-                       Dr.Komal shahaji chindhe 
+                        Dr.Komal shahaji chindhe
                     </a>
                     <p>Post Graduate (2nd Year), Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>komalchindhe2018@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Thenmozhi/Thenmozhi.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="#">
+                        Dr. Thenmozhi.B.R
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>thenmozhi86dr@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Bhagyashree Bothikar/Bhagyashree Bothikar.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="#">
+                        Dr. Bhagyashree Bothikar
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>bbothikar2016@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vaidehi singh/Vaidehi singh.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="#">
+                        Dr. Vaidehi singh
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Periodontology</p>
+                    <p><strong>Email: </strong>vaidehisingh2002@gmail.com</p>
                 </div>
             </div>
         </div>
-<!-----------------------------------------------end here------------------------------------->
+        <!-----------------------------------------------end here------------------------------------->
 
         <div>
             <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Post Graduate Clinic.jpg" alt="Department Image"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Post Graduate Clinic.jpg" alt="Department Image" loading="lazy" />
                     <p>Undergraduate Clinic</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Special Operatory for LASER & Implantology.jpg" alt="Department Image"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Special Operatory for LASER & Implantology.jpg" alt="Department Image" loading="lazy" />
                     <p>Post Graduate Clinic</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Undergraduate Clinic.jpg" alt="Department Image"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Undergraduate Clinic.jpg" alt="Department Image" loading="lazy" />
                     <p>Special Operatory for LASER & Implantology</p>
                 </div>
             </div>
@@ -385,4 +404,5 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
     <?php include($ROOT . "includes/_footer.php"); ?>
 
 </body>
+
 </html>
