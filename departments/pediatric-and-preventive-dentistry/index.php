@@ -185,15 +185,24 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
                     <p>Associate Professor, Dept. of Pediatric and Preventive Dentistry</p>
                     <p><strong>Email: </strong>drpankajchavhan@gmail.com</p>
                 </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Vibhakar Mote.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Vibhakar Mote
+                    </a>
+                    <p>Dental Surgeon, Dept. of Public Health Dentistry</p>
+                    <p><strong>Email: </strong></p>
+                </div>
                 
-                <div class="facultyCard">
+                <!-- <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Shivani Bhadule.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
                     <a>
                         Dr. Shivani Bhadule
                     </a>
                     <p>Bonded Lecturer, Dept. of Pediatric and Preventive Dentistry</p>
                     <p><strong>Email: </strong></p>
-                </div>
+                </div> -->
             </div>
         </div>
         <div>

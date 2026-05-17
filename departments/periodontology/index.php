@@ -300,16 +300,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
                     <p>Assistant Professor, Dept. of Periodontology</p>
                     <p><strong>Email: </strong>hargunani.pawan@gmail.com</p>
                 </div>
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Varsha-Deokar/Photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
-                    <a href="#">
-                        Dr. Varsha Deokar
-                    </a>
-                    <p>Dental Surgeon, Dept. of Periodontology</p>
-                    <p><strong>Email: </strong></p>
-                </div>
-
 <!------------------------------------------added new ------------------------------------------>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Aishwarya Rajendra Mulay/Aishwarya Rajendra Mulay.jpg" alt="faculty" width="200" height="200" loading="lazy" />
