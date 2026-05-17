@@ -1,6 +1,6 @@
-<?php 
+<?php
 
-$ROOT = "../../"; 
+$ROOT = "../../";
 include($ROOT . "includes/_init.php");
 $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/";
 
@@ -8,6 +8,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,19 +18,26 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
     <script src="<?php echo $ROOTURL ?>public/js/departments/departmentMain.js" defer></script>
     <script src="<?php echo $ROOTURL ?>public/js/modal.js" defer></script>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css">
+    </link>
 </head>
+
 <body>
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
             DEPARTMENT OF CONSERVATIVE DENTISTRY AND ENDODONTICS
         </h1>
@@ -54,7 +62,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
             <h2 class="title">
                 Vision
             </h2>
-            <ul>            
+            <ul>
                 <li class="italic mt-4">
                     The Department of Conservative Dentistry and Endodontics encompasses the specialities of operative dentistry, endodontics, and dental material sciences.
                 </li>
@@ -79,7 +87,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
             <h2 class="title">
                 Mission
             </h2>
-            <ul> 
+            <ul>
                 <li class="italic mt-4">
                     To support the vision, mission, core values and goals of the institution through teaching, service, patient care and research.
                 </li>
@@ -118,17 +126,17 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
         </div>
         <div class="largeContentCard">
             <h2 class="title">
-                 Patient Services
+                Patient Services
             </h2>
             <ul>
                 <li class="italic ">
-                 Silver Amalgam and Tooth colored restorations.
+                    Silver Amalgam and Tooth colored restorations.
                 </li>
                 <li class="italic">
-                 Cosmetic Dentistry- Composite, Ceramics, Laminates, Crowns, Bleaching, Tooth jewelry, etc.
+                    Cosmetic Dentistry- Composite, Ceramics, Laminates, Crowns, Bleaching, Tooth jewelry, etc.
                 </li>
                 <li>
-                Smile designing & Aesthetic corrections.
+                    Smile designing & Aesthetic corrections.
                 </li>
                 <li>Complex direct & indirect restorations.</li>
                 <li>Hard and Soft tissue management using Lasers.</li>
@@ -140,204 +148,221 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                 <li>Restoration of badly mutilated teeth/post & core.</li>
                 <li>Digital endodontics and Advanced conservative & endodontic treatment modalities.</li>
             </ul>
-            
-            
+
+
         </div>
 
         <div class="facultyContainer">
             <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy"/>
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy"/>
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
                 <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/drPradnyaVilasBansode/profilePic.png" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/drPradnyaVilasBansode/cv.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/drPradnyaVilasBansode/profilePic.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/drPradnyaVilasBansode/cv.pdf" type="application/pdf" target="_blank">
                         Dr. Pradnya Vilas Bansode
                     </a>
                     <p>Professor (MPSC) and Head of department, Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>pradnyawadikar@gmail.com</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/drSeemaDhananjayPathak/profilePic.png" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/drSeemaDhananjayPathak/cv.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/drSeemaDhananjayPathak/profilePic.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/drSeemaDhananjayPathak/cv.pdf" type="application/pdf" target="_blank">
                         Dr. Seema Dhananjay Pathak
                     </a>
                     <p>Associate Professor, Dept. of Conservative Dentistry, ...</p>
+                    <p><strong>Email: </strong>seemadpathak@gmail.com</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Madhuri Ambhure (1).JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/drMadhuriMilindAmbhure/cv.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Madhuri Ambhure (1).JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/drMadhuriMilindAmbhure/cv.pdf" type="application/pdf" target="_blank">
                         Dr. Madhuri Milind Ambhure
                     </a>
                     <p>Associate Professor, Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>mbwavdhane@gmail.com </p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Shirish Khedgikar.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/drShirish-Khedgikar/Shirish-Khedgikar.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Shirish Khedgikar.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/drShirish-Khedgikar/Shirish-Khedgikar.pdf" type="application/pdf" target="_blank">
                         Dr. Shirish Bhimrao Khedgikar
                     </a>
                     <p>Associate Professor, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Geetam Duduskar.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                        Dr. Geetam Duduskar
-                    </a>
-                    <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Swetha Kannamparambil.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                        Dr. Swetha Kannamparambil
-                    </a>
-                    <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Anjali Mule.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                        Dr. Anjali Mule
-                    </a>
-                    <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Suyog Jadhav (1).JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                        Dr. Suyog Jadhav
-                    </a>
-                    <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Aarti Pathak.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                        Dr. Aarti Pathak
-                    </a>
-                    <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Rohini R (1).JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                        Dr. Rohini R
-                    </a>
-                    <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
-                </div>
-  <!-----------------------------------new added------------------------>              
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shraddha Shinde.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                      Dr. Shraddha Shinde 
-                    </a>
-                    <p>Dental surgeon , Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong></p>
                 </div>
 
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr.Aditi Magar.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr.Aditi Magar.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
                         Dr.Aditi Magar
                     </a>
                     <p>Assistant professor, Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>aditimagar11@gmail.com</p>
                 </div>
-                
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shruti Bajaj.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shraddha Shinde.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
-                       Dr. Shruti Bajaj
+                        Dr. Shraddha Shinde
                     </a>
-                    <p>Post Graduate (2nd Year), Dept. of Conservative Dentistry</p>
+                    <p>Dental surgeon , Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>shraddhashinde215@gmail.com</p>
                 </div>
-                
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vishal Jawadwad.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                      Dr. Vishal Jawadwad
-                    </a>
-                    <p>Post Gradaute (3rd Year), Dept. of Conservative Dentistry</p>
-                </div>
-                
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ramitha H D.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                      Dr. RAMITHA H D
-                    </a>
-                    <p>Post Graduate (1st Year), Dept. of Conservative Dentistry</p>
-                </div>
-                
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Swapnil Mundhe.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                       Dr. Swapnil Mundhe 
-                    </a>
-                    <p>Post Graduate (1st Year), Dept. of Conservative Dentistry</p>
-                </div>
-                
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr Disha Kotak.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                     Dr. Disha Dilip Kotak 
-                    </a>
-                    <p>Post Gradaute (1st Year), Dept. of Conservative Dentistry</p>
-                </div>
-                
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Madhura Dange.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                      Dr.Madhura Dange
-                    </a>
-                    <p>Post Gradaute (3rd Year), Dept. of Conservative Dentistry</p>
-                </div>
-                
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shriya.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr varsha deokar.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
-                      Dr. Shriya Ostwal
-                    </a>
-                    <p>Post Gradaute (3rd Year), Dept. of Conservative Dentistry</p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Manav Modi.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                     Dr. Manav Modi
-                    </a>
-                    <p>Post Gradaute (2nd Year), Dept. of Conservative Dentistry</p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr varsha deokar.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a>
-                     Dr. Varsha Deokar
+                        Dr. Varsha Deokar
                     </a>
                     <p>Dental Surgeon, Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>varsha.deokar@gmail.com</p>
                 </div>
 
-<!------------------------------end here----------------------------------------------->
-                
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Geetam Duduskar.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Geetam Duduskar
+                    </a>
+                    <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong></p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Swetha Kannamparambil.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Swetha Kannamparambil
+                    </a>
+                    <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong></p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Anjali Mule.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Anjali Mule
+                    </a>
+                    <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong></p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Suyog Jadhav (1).JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Suyog Jadhav
+                    </a>
+                    <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong></p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Aarti Pathak.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Aarti Pathak
+                    </a>
+                    <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>aartiwangikar09@gmail.com</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Rohini R (1).JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Rohini R
+                    </a>
+                    <p>Bonded Lecturer, Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong></p>
+                </div>
+                <!-----------------------------------new added------------------------>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vishal Jawadwad.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Vishal Jawadwad
+                    </a>
+                    <p>Post Gradaute (3rd Year), Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>Vishaljawadwad91@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Madhura Dange.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr.Madhura Dange
+                    </a>
+                    <p>Post Gradaute (3rd Year), Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>madhuradange98@gmail.com</p>
+                </div>
+
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shriya.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Shriya Ostwal
+                    </a>
+                    <p>Post Gradaute (3rd Year), Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>Shriya7699@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Manav Modi.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Manav Modi
+                    </a>
+                    <p>Post Gradaute (2nd Year), Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>manavmodi8224@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shruti Bajaj.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Shruti Bajaj
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>ssbajaj13@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ramitha H D.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. RAMITHA H D
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>ramithadgowda13@gmail.com</p>
+                </div>
+
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Swapnil Mundhe.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Swapnil Mundhe
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>swapnilmundhe489@gmail.com</p>
+                </div>
+
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr Disha Kotak.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr. Disha Dilip Kotak
+                    </a>
+                    <p>Post Gradaute (1st Year), Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong>dishakotak6@gmail.com</p>
+                </div>
+                <!------------------------------end here----------------------------------------------->
             </div>
         </div>
         <div>
             <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/departmentBoard.png" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/departmentBoard.png" alt="Department Image" loading="lazy" />
                     <p>Department Board</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/centralClinic.png" alt="Department Image"  loading="lazy"/> 
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/centralClinic.png" alt="Department Image" loading="lazy" />
                     <p>Central Clinic</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/clinicBoard.png" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/clinicBoard.png" alt="Department Image" loading="lazy" />
                     <p>Clinic Board</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/clinic.png" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/clinic.png" alt="Department Image" loading="lazy" />
                     <p>Clinic</p>
                 </div>
             </div>
@@ -346,9 +371,10 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                 View More
             </a>
         </div>
-    </div >
+    </div>
 
     <?php include($ROOT . "includes/_footer.php"); ?>
 
 </body>
+
 </html>
