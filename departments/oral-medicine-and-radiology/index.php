@@ -369,7 +369,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
                     <p><strong>Email: </strong>ranajoy2706@gmail.com</p>
                 </div>
 
-                 <div class="facultyCard">
+                <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Ishwari Garad/ishwari Garad.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a type="application/pdf" target="_blank">
                         Dr. Ishwari Manikrao Garad
@@ -456,9 +456,35 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
                     </p>
                     <p><strong>Email: </strong>dikshajagtap1124@gmail.com</p>
                 </div>
-<!------------------------------end here------------------------------------>
+                <!------------------------------end here------------------------------------>
             </div>
         </div>
+
+        <!---------------------------------------------new section added--------------------------------->
+        <div>
+            <div class="facultyContainer marginTop">
+                <div class="facultyToggleBtn">
+                    <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                    <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
+                    <h2>Major Cases Work Done</h2>
+                </div>
+                <div class="accordionContent">
+                    <div class="majorCasesBox">
+                        <table>
+                            <tr>
+                                <th>Month</th>
+                                <th>No. of Major Cases</th>
+                            </tr>
+                            <tr>
+                                <td>April</td>
+                                <td>667</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-------------------------------------------new section done--------------------------------->
 
         <div>
             <h2>Gallery</h2>

@@ -333,6 +333,31 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                 <!------------------------------end here----------------------------------------------->
             </div>
         </div>
+<!---------------------------------------------new section added--------------------------------->
+        <div>
+            <div class="facultyContainer marginTop">
+                <div class="facultyToggleBtn">
+                    <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                    <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
+                    <h2>Major Cases Work Done</h2>
+                </div>
+                <div class="accordionContent">
+                    <div class="majorCasesBox">
+                        <table>
+                            <tr>
+                                <th>Month</th>
+                                <th>No. of Major Cases</th>
+                            </tr>
+                            <tr>
+                                <td>April</td>
+                                <td>3631</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+<!-------------------------------------------new section done--------------------------------->
         <div>
             <h2>Gallery</h2>
             <div class="galleryCardContainer">

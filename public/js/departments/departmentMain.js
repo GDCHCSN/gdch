@@ -11,7 +11,7 @@ for (e of facultyToggleBtn) {
     }
 
     let facultyGallery =
-      e.currentTarget.parentElement.querySelector(".facultyGallery");
+      e.currentTarget.parentElement.querySelector(".facultyGallery, .accordionContent");
     if (facultyGallery.style.maxHeight == "none") {
       facultyGallery.style.maxHeight = "0";
       facultyGallery.style.overflow = "clip";

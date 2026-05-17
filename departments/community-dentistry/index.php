@@ -285,14 +285,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
                     <p><strong>Email: </strong>shrutipundkar@gmail.com</p>
                 </div>
 
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Vibhakar Mote.JPG" alt="faculty" width="200" height="200" loading="lazy" />
-                    <a>
-                        Dr. Vibhakar Mote
-                    </a>
-                    <p>Dental Surgeon, Dept. of Public Health Dentistry</p>
-                    <p><strong>Email: </strong></p>
-                </div>
+
                 <!-------new added ------->
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Mehul Ajit Shah.jpg" alt="faculty" width="200" height="200" loading="lazy" />
@@ -330,6 +323,31 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
                 </div>
             </div>
         </div>
+        <!---------------------------------------------new section added--------------------------------->
+        <div>
+            <div class="facultyContainer marginTop">
+                <div class="facultyToggleBtn">
+                    <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                    <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
+                    <h2>Major Cases Work Done</h2>
+                </div>
+                <div class="accordionContent">
+                    <div class="majorCasesBox">
+                        <table>
+                            <tr>
+                                <th>Month</th>
+                                <th>No. of Major Cases</th>
+                            </tr>
+                            <tr>
+                                <td>April</td>
+                                <td>1355</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-------------------------------------------new section done--------------------------------->
         <div>
             <h2>Gallery</h2>
             <div class="galleryCardContainer">

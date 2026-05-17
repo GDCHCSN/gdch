@@ -391,6 +391,40 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             </div>
         </div>
 
+
+      <!---------------------------------------------new section added--------------------------------->
+        <div>
+            <div class="facultyContainer marginTop">
+                <div class="facultyToggleBtn">
+                    <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                    <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
+                    <h2>Major Cases Work Done</h2>
+                </div>
+                <div class="accordionContent">
+                    <div class="majorCasesBox">
+                        <table>
+                            <tr>
+                                <th>Month</th>
+                                <th>No. of Major Cases</th>
+                            </tr>
+                            <tr>
+                                <td>January</td>
+                                <td>25</td>
+                            </tr>
+                            <tr>
+                                <td>February</td>
+                                <td>32</td>
+                            </tr>
+                            <tr>
+                                <td>March</td>
+                                <td>28</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+  <!-------------------------------------------new section done--------------------------------->    
         <div>
             <h2>Gallery</h2>
             <div class="galleryCardContainer">
