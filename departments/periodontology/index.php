@@ -214,7 +214,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
                         Dr. Chandulal Digambarrao Dhalkari
                     </a>
                     <p>Professor and Head, Dept. of Periodontology</p>
-                    <p><strong>Email: </strong></p>
+                    <p><strong>Email: </strong>drcddhalkari@gmail.com</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Ashok-Bhansali/Photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
