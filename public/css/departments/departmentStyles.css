@@ -273,3 +273,34 @@ tr {
     padding: 1rem;
     font-size: 0.9rem;
 }
+
+
+.opdMaindiv {
+    max-width: 1200px;
+    width: 90%;
+    margin: 2rem auto;
+}
+
+@media only screen and (max-width: 768px) {
+    .opdMaindiv {
+        width: 95%;
+        margin: 1rem auto;
+    }
+}
+.opdTableBox {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.opdTableBox table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.opdTableBox th,
+.opdTableBox td {
+    border: 1px solid rgb(228 228 231);
+    padding: 1rem;
+    font-size: 0.9rem;
+}
