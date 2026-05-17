@@ -176,6 +176,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
                         Dr. Mandakini Mandale
                     </a>
                     <p>Professor and Head of Department, Dept. of Oral Pathology</p>
+                    <p><strong>Email: </strong>msmandale17@gmail.com</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Jayanti-Humbe/2. Dr Jayanti Humbe.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
@@ -221,6 +222,16 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
                        Dr. Vaishnavi Marge
                     </a>
                     <p>Post Graduate (2nd Year), Dept. of Oral Pathology</p>
+                    <p><strong>Email: </strong>vaishnavimarge18@gmail.com</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aishwarya Karhale/Aishwarya Karhale.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <a href="" type="application/pdf" target="_blank">
+                       Dr. Aishwarya Karhale
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Oral Pathology</p>
+                    <p><strong>Email: </strong>aishwaryakarhale.ak786@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
@@ -229,6 +240,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
                        Dr. Harshika Sikhwal 
                     </a>
                     <p>Post Graduate (1st Year), Dept. of Oral Pathology</p>
+                    <p><strong>Email: </strong>harshikasikhwal267@gmail.com</p>
                 </div>
 
 
@@ -238,6 +250,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
                        Dr.Vaishnavi Choudhary 
                     </a>
                     <p>Post Graduate (1st Year), Dept. of Oral Pathology</p>
+                    <p><strong>Email: </strong>vaishnavic272@gmail.com</p>
                 </div>
 
 
@@ -247,17 +260,8 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
                        Dr. Akshaya Raj
                     </a>
                     <p>Post Graduate (1st Year), Dept. of Oral Pathology</p>
+                    <p><strong>Email: </strong>akshayarajg@gmail.com</p>
                 </div>
-
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aishwarya Karhale/Aishwarya Karhale.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href="" type="application/pdf" target="_blank">
-                       Dr. Aishwarya Karhale
-                    </a>
-                    <p>Post Graduate (2nd Year), Dept. of Oral Pathology</p>
-                </div>
-
 <!------------------------------------end here------------------------------------------>               
             </div>
         </div>

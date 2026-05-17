@@ -1,6 +1,6 @@
-<?php 
+<?php
 
-$ROOT = "../../"; 
+$ROOT = "../../";
 include($ROOT . "includes/_init.php");
 $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
 
@@ -8,6 +8,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,19 +18,26 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
     <script src="<?php echo $ROOTURL ?>public/js/departments/departmentMain.js" defer></script>
     <script src="<?php echo $ROOTURL ?>public/js/modal.js" defer></script>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css">
+    </link>
 </head>
+
 <body>
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
             DEPARTMENT OF ORAL AND MAXILLOFACIAL SURGERY
         </h1>
@@ -94,10 +102,10 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
                 Vision of Department of oral and Maxillofacial surgery is to train under graduate and post graduate students to attend the highest standard of education in the field of oral and maxillofacial surgery
             </li>
             <li class="italic mt-4">
-                Department of oral and Maxillofacial surgery hopes to bring together all education facilities of the highest order to train personnel in the field of oral and Maxillofacial surgery and set up state of art facilities in order to provide best possible care for patients 
+                Department of oral and Maxillofacial surgery hopes to bring together all education facilities of the highest order to train personnel in the field of oral and Maxillofacial surgery and set up state of art facilities in order to provide best possible care for patients
             </li>
             <li class="italic mt-4">
-                In addition setting a platform for research of international standards and  conducting high quality research is an integral part of Department of oral and Maxillofacial surgery.
+                In addition setting a platform for research of international standards and conducting high quality research is an integral part of Department of oral and Maxillofacial surgery.
             </li>
         </div>
 
@@ -106,7 +114,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
                 Mission
             </h2>
             <li>
-                The mission of Department of oral and Maxillofacial surgery is to improve performance of the oral health system, oral health status and awareness through education, research and service. 
+                The mission of Department of oral and Maxillofacial surgery is to improve performance of the oral health system, oral health status and awareness through education, research and service.
                 Department of oral and Maxillofacial surgery believes in being paradigm shift in education &healing.
             </li>
         </div>
@@ -146,7 +154,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
                 Post graduates participate in interdepartmental activities , PRADAN activity & research activities.
             </p>
             <p>
-                Post graduates attend  annual conferences , post graduate conventions & various workshops to improve presentation skills.
+                Post graduates attend annual conferences , post graduate conventions & various workshops to improve presentation skills.
             </p>
             <h3>
                 Clinical Activities
@@ -155,13 +163,13 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
                 First and second year pgs casualty duties decided according to rotation wise under direct supervision of assistant professors and under guidance of associate prof and HOD.
             </p>
             <p>
-                First year pgs having peripheral posting each of 15  days for few medical subjects like ENT, Opthalmology, general medicine , general surgery etc .
+                First year pgs having peripheral posting each of 15 days for few medical subjects like ENT, Opthalmology, general medicine , general surgery etc .
             </p>
             <p>
                 Second year Post graduates having peripheral postings in subjects like oncology, neurosurgery ,plastic surgery 1 month each.
             </p>
             <p>
-                post graduates do clinical cases in minor and Major OT individually / under supervision of corresponding staff / assist the surgery. 
+                post graduates do clinical cases in minor and Major OT individually / under supervision of corresponding staff / assist the surgery.
             </p>
             <p>
                 Post graduates also participate in interdepartmental activities , PRADAN activity , research activities.
@@ -185,184 +193,201 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
 
         <div class="facultyContainer">
             <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy"/>
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy"/>
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
                 <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Kanchan-Shah/photo.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Kanchan-Shah/Kanchan-Shah.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Kanchan-Shah/photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/Kanchan-Shah/Kanchan-Shah.pdf" type="application/pdf" target="_blank">
                         Dr. Kanchan Shah
                     </a>
                     <p>Professor and Head of Department, Dept. of Oral and Maxillofacial Surgery</p>
+                    <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Jayant-Landge/photo.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Jayant-Landge/Jayant-Landge.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Jayant-Landge/photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/Jayant-Landge/Jayant-Landge.pdf" type="application/pdf" target="_blank">
                         Dr. Jayant S. Landge
                     </a>
                     <p>Associate Professor and Post Graduate Teacher, Dept. of Oral and Maxillofacial Surgery</p>
+                    <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $ROOTURL ?>public/assets/doctor.png" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Shaikh-Ayub/Shaikh-Ayub.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $ROOTURL ?>public/assets/doctor.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/Shaikh-Ayub/Shaikh-Ayub.pdf" type="application/pdf" target="_blank">
                         Dr. Shaikh Wahab Ayub
                     </a>
                     <p>Associate Professor, Dept. of Oral and Maxillofacial Surgery</p>
+                    <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shelly-Sharma/photo.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Shelly-Sharma/Shelly-Sharma.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shelly-Sharma/photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/Shelly-Sharma/Shelly-Sharma.pdf" type="application/pdf" target="_blank">
                         Dr. Shelly Sharma
                     </a>
                     <p>Assistant Professor, Dept. of Oral and Maxillofacial Surgery</p>
+                    <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ashlesha-Ghormade/photo.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Ashlesha-Ghormade/Ashlesha-Ghormade.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ashlesha-Ghormade/photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/Ashlesha-Ghormade/Ashlesha-Ghormade.pdf" type="application/pdf" target="_blank">
                         Dr. Ashlesha-Ghormade
                     </a>
                     <p>Assistant Professor, Dept. of Oral and Maxillofacial Surgery</p>
+                    <p><strong>Email: </strong></p>
                 </div>
+
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Priti-Bhutada/photo.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Priti-Bhutada/Priti-Bhutada.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ataur Rahman/Ataur Rahman.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Ataur Rahman
+                    </a>
+                    <p>
+                        Assistant professor, Dept. of Oral and Maxillofacial Surgery
+                    </p>
+                    <p><strong>Email: </strong>ataurrahman18893@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Kshitija Pandhare/Kshitija Pandhare.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Kshitija Pandhare
+                    </a>
+                    <p>
+                        Assistant Professor,Dept. of Oral and Maxillofacial Surgery
+                    </p>
+                    <p><strong>Email: </strong>dhanakshitu.kp@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Mehak Kataria/Mehak Kataria.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Mehak Kataria
+                    </a>
+                    <p>
+                        Assistant Professor,Dept. of Oral and Maxillofacial Surgery
+                    </p>
+                    <p><strong>Email: </strong>mehak.kataria1997@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Priti-Bhutada/photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/Priti-Bhutada/Priti-Bhutada.pdf" type="application/pdf" target="_blank">
                         Dr. Priti N. Bhutada
                     </a>
                     <p>Dental Surgeon, Dept. of Oral and Maxillofacial Surgery</p>
+                    <p><strong>Email: </strong>jethliyapriti12980@gmail.com</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $ROOTURL ?>public/assets/doctor.png" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
+                    <img src="<?php echo $ROOTURL ?>public/assets/doctor.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
                         DR.HARSHMALA CHAVAN
                     </a>
-                    <p>
-                        Dental Surgeon
-                    </p>
+                    <p>Dental Surgeon, Dept. of Oral and Maxillofacial Surgery</p>
+                    <p><strong>Email: </strong></p>
                 </div>
-<!----------------------------------added new ----------------------------------------------->
+                <!----------------------------------added new ----------------------------------------------->
+
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Joseph Naveen Kanuri/Joseph Naveen Kanuri.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
-                       Dr. Joseph Naveen Kanuri
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Manisha Madhukar Ambhore/Manisha Madhukar Ambhore.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Manisha Madhukar Ambhore
                     </a>
                     <p>
-                       Post Graduate (2nd year)
+                        Post Graduate (3rd year),Dept. of Oral and Maxillofacial Surgery
                     </p>
+                    <p><strong>Email: </strong>manishadeogademds@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Malvika Raj/Malvika Raj.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
-                      Dr. Malvika Raj
-                    </a>
-                    <p>
-                        Post Graduate (1st year)
-                    </p>
-                </div>
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Radhika Nandkishor Channe/Radhika Nandkishor Channe.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
-                       Dr. Radhika Nandkishor Channe
-                    </a>
-                    <p>
-                       Post Graduate (2nd year)
-                    </p>
-                </div>
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ataur Rahman/Ataur Rahman.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
-                       Dr. Ataur Rahman 
-                    </a>
-                    <p>
-                        Assistant professor 
-                    </p>
-                </div>
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Kshitija Pandhare/Kshitija Pandhare.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
-                       Dr. Kshitija Pandhare
-                    </a>
-                    <p>
-                        Assistant Professor 
-                    </p>
-                </div>
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Anjali Arvind Meahram/Anjali Arvind Meahram.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Anjali Arvind Meahram/Anjali Arvind Meahram.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
                         Dr.Anjali Arvind Meahram
                     </a>
                     <p>
-                       Post Graduate (3rd year)
+                        Post Graduate (3rd year), Dept. of Oral and Maxillofacial Surgery
                     </p>
+                    <p><strong>Email: </strong>anjalimeshram013@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aishwarya Salve/Aishwarya Salve.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
-                      Dr. Aishwarya Salve
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aishwarya Salve/Aishwarya Salve.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Aishwarya Salve
                     </a>
                     <p>
-                       Post Graduate (3rd year)
+                        Post Graduate (3rd year),Dept. of Oral and Maxillofacial Surgery
                     </p>
+                    <p><strong>Email: </strong>aishsalve97@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sayyed Arsheen Moazzam Ali/Sayyed Arsheen Moazzam Ali.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
-                       Dr. Sayyed Arsheen Moazzam Ali
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Joseph Naveen Kanuri/Joseph Naveen Kanuri.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Joseph Naveen Kanuri
                     </a>
                     <p>
-                       Post Graduate (1st year)
+                        Post Graduate (2nd year),Dept. of Oral and Maxillofacial Surgery
                     </p>
+                    <p><strong>Email: </strong>pandunaveen007@gmail.com</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Radhika Nandkishor Channe/Radhika Nandkishor Channe.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Radhika Nandkishor Channe
+                    </a>
+                    <p>
+                        Post Graduate (2nd year), Dept. of Oral and Maxillofacial Surgery
+                    </p>
+                    <p><strong>Email: </strong>channeradhika22@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Manisha Madhukar Ambhore/Manisha Madhukar Ambhore.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
-                       Dr. Manisha Madhukar Ambhore
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Raahil Abdul Kader/Raahil Abdul Kader.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Raahil Abdul Kader
                     </a>
                     <p>
-                        Post Graduate (3rd year)
+                        Post Graduate (2nd year),Dept. of Oral and Maxillofacial Surgery
                     </p>
+                    <p><strong>Email: </strong>raahilak96@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ahire Bhavisha/Bhavisha Ahire.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
-                       Dr. Ahire Bhavisha Sudhakar
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Malvika Raj/Malvika Raj.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Malvika Raj
                     </a>
                     <p>
-                        Post Graduate (1st year)
+                        Post Graduate (1st year), Dept. of Oral and Maxillofacial Surgery
                     </p>
+                    <p><strong>Email: </strong>rajmalvika7@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Mehak Kataria/Mehak Kataria.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
-                      Dr. Mehak Kataria
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sayyed Arsheen Moazzam Ali/Sayyed Arsheen Moazzam Ali.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Sayyed Arsheen Moazzam Ali
                     </a>
                     <p>
-                        Assistant Professor
+                        Post Graduate (1st year), Dept. of Oral and Maxillofacial Surgery
                     </p>
+                    <p><strong>Email: </strong>sayyedarsheen03@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Raahil Abdul Kader/Raahil Abdul Kader.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a type="application/pdf" target="_blank" >
-                       Dr. Raahil Abdul Kader
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ahire Bhavisha/Bhavisha Ahire.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Ahire Bhavisha Sudhakar
                     </a>
                     <p>
-                       Post Graduate (2nd year)
+                        Post Graduate (1st year), Dept. of Oral and Maxillofacial Surgery
                     </p>
+                    <p><strong>Email: </strong>ahirebhavisha@gmail.com</p>
                 </div>
-<!--------------------------------------end here---------------------------------->
-
+                <!--------------------------------------end here---------------------------------->
             </div>
         </div>
 
@@ -370,25 +395,25 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/DEPARTMENT STAFF AND POST- GRADUATES PHOTOGRAPHS.png" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/DEPARTMENT STAFF AND POST- GRADUATES PHOTOGRAPHS.png" alt="Department Image" loading="lazy" />
                     <p>
                         DEPARTMENT STAFF AND POST- GRADUATES PHOTOGRAPHS
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/OPD.png" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/OPD.png" alt="Department Image" loading="lazy" />
                     <p>
                         OPD
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/MINOR OPERATION THEATRE.png" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/MINOR OPERATION THEATRE.png" alt="Department Image" loading="lazy" />
                     <p>
                         MINOR OPERATION THEATRE
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/MAJOR OPERATION THEATRE.png" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/MAJOR OPERATION THEATRE.png" alt="Department Image" loading="lazy" />
                     <p>
                         MAJOR OPERATION THEATRE
                     </p>
@@ -399,9 +424,10 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
                 View More
             </a>
         </div>
-    </div >
+    </div>
 
     <?php include($ROOT . "includes/_footer.php"); ?>
 
 </body>
+
 </html>

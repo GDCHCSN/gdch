@@ -1,6 +1,6 @@
-<?php 
+<?php
 
-$ROOT = "../../"; 
+$ROOT = "../../";
 include($ROOT . "includes/_init.php");
 $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
 
@@ -8,6 +8,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,19 +18,26 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
     <script src="<?php echo $ROOTURL ?>public/js/departments/departmentMain.js" defer></script>
     <script src="<?php echo $ROOTURL ?>public/js/modal.js" defer></script>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css">
+    </link>
 </head>
+
 <body>
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
             DEPARTMENT OF ORAL MEDICINE AND RADIOLOGY
         </h1>
@@ -74,7 +82,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
                 The domain of forensic dentistry/forensic odontology, an integral part of our specialty, is experiencing remarkable growth. Its significance within the nation's criminal justice system which has escalated tenfold, emphasizing the critical need for comprehensive expertise in this subfield. It's heartening to witness a considerable number of young Oral Medicine and Radiology (OMR) specialists expressing keen interest in this area and making noteworthy contributions.
             </p>
             <p>
-                Moreover, Orofacial pain has been acknowledged as the latest dental specialty in specific regions worldwide, given its intricate understanding of pain physiology and management. Similarly, in sleep medicine, which involves a multidisciplinary approach, the role of an oral diagnostician is pivotal for initial diagnosis. 
+                Moreover, Orofacial pain has been acknowledged as the latest dental specialty in specific regions worldwide, given its intricate understanding of pain physiology and management. Similarly, in sleep medicine, which involves a multidisciplinary approach, the role of an oral diagnostician is pivotal for initial diagnosis.
             </p>
             <p>
                 These emerging fields demand heightened attention within our country, and our institute pledges to acknowledge these requirements by expanding training facilities for young postgraduates in our specialty.
@@ -89,7 +97,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
                 The department's strength lies in its esteemed faculty members, who not only employ diverse teaching-learning methods but also actively engage in research projects, with papers being regularly published in national and international conference proceedings and journals. Faculty members undergo regular faculty development programs and receive specialized training in Cone Beam Computed Tomography, TMD management, and oral cancer diagnosis. Additionally, various Continuing Dental Education (CDE) programs, PRADAN activities, and workshops are conducted annually for the benefit of students and faculty members alike.
             </p>
             <p>
-                With the capacity to serve over 200 patients daily, the department is committed to deliver the highest quality of patient care. Cultivating compassion, respect, and dignity towards both patients and colleagues fosters teamwork and accountability among departmental staff, earning the respect of peers within the dental care community. We aim to achieve service excellence by providing quality dental care  to patients and strive to set standards for excellence in nurturing professional skills among students.
+                With the capacity to serve over 200 patients daily, the department is committed to deliver the highest quality of patient care. Cultivating compassion, respect, and dignity towards both patients and colleagues fosters teamwork and accountability among departmental staff, earning the respect of peers within the dental care community. We aim to achieve service excellence by providing quality dental care to patients and strive to set standards for excellence in nurturing professional skills among students.
             </p>
         </div>
 
@@ -141,19 +149,19 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
                 The syllabus in ORAL MEDICINE & RADIOLOGY is divided into two main parts.
             </h3>
             <p>
-                (I) Diagnosis, Diagnostic methods and Oral Medicine 
+                (I) Diagnosis, Diagnostic methods and Oral Medicine
             </p>
             <p>
-                (II) Oral Radiology. 
+                (II) Oral Radiology.
             </p>
             <p>
-                Again the part ONE is subdivided into three sections. 
+                Again the part ONE is subdivided into three sections.
             </p>
             <p>
-                1. Diagnostic methods 
+                1. Diagnostic methods
             </p>
             <p>
-                2. Diagnosis and differential diagnosis 
+                2. Diagnosis and differential diagnosis
             </p>
             <p>
                 3. Oral Medicine & Therapeutics.
@@ -246,7 +254,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
                 Diagnosis and pharmacological treatment of oral manifestations associated with systemic illnesses.
             </li>
             <li>
-                Treatment of psychosomatic disorders and neurological conditions impacting the jaws and oral cavity. 
+                Treatment of psychosomatic disorders and neurological conditions impacting the jaws and oral cavity.
             </li>
             <h3>
                 Oral Radiology:
@@ -261,7 +269,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
                 Extraoral radiography including digital OPG, lateral cephalograms and various skull projections like postero-anterior (PA), antero-posterior (AP), lateral skull views,submento-vertex view and TMJ views.
             </li>
             <li>
-                Digital imaging: Radiovisiography and Phosphor Plate Imaging 
+                Digital imaging: Radiovisiography and Phosphor Plate Imaging
             </li>
             <li>
                 Advanced imaging: Cone beam computed tomography (CBCT) .
@@ -270,168 +278,185 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
 
         <div class="facultyContainer">
             <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy"/>
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy"/>
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
                 <h2>STAFF DETAILS</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr-jaishri-pagare/photo.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href="<?php echo $CURRENTDIRURL ?>assets/dr-jaishri-pagare/cv.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr-jaishri-pagare/photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/dr-jaishri-pagare/cv.pdf" type="application/pdf" target="_blank">
                         Dr. Jaishri Pagare
                     </a>
                     <p>
                         PROFESSOR (ACADEMIC) and HEAD OF DEPARTMENT
                     </p>
+                    <p><strong>Email: </strong>drjaishripagare@gmail.com</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr-vikrant-kasat/photo.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href="<?php echo $CURRENTDIRURL ?>assets/dr-vikrant-kasat/cv.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr-vikrant-kasat/photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/dr-vikrant-kasat/cv.pdf" type="application/pdf" target="_blank">
                         Dr. Vikrant Kasat
                     </a>
                     <p>
                         ASSOCIATE PROFESSOR
                     </p>
+                    <p><strong>Email: </strong>drvikrantkasat@rediffmail.com</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr-ankita-goklani/photo.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href="<?php echo $CURRENTDIRURL ?>assets/dr-ankita-goklani/cv.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr-ankita-goklani/photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/dr-ankita-goklani/cv.pdf" type="application/pdf" target="_blank">
                         Dr.Ankita Goklani
                     </a>
                     <p>
                         ASSISTANT PROFESSOR
                     </p>
+                    <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr-om-kharat/photo.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a href="<?php echo $CURRENTDIRURL ?>assets/dr-om-kharat/cv.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr-om-kharat/photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>assets/dr-om-kharat/cv.pdf" type="application/pdf" target="_blank">
                         Dr. Om Kharat
                     </a>
                     <p>
                         ASSISTANT PROFESSOR
                     </p>
+                    <p><strong>Email: </strong></p>
                 </div>
+
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr-archana-dama/photo.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a  type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dyaneshwar Rathod/Dyaneshwar Rathod.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr.Dyaneshwar Rathod
+                    </a>
+                    <p>
+                        Assistant Professor
+                    </p>
+                    <p><strong>Email: </strong>drdyaneshwarrathod637@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Gayatri Kale/Gayatri Kale.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr.Gayatri Kale
+                    </a>
+                    <p>
+                        Assistant Professor
+                    </p>
+                    <p><strong>Email: </strong>gkale0298@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/dr-archana-dama/photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
                         Dr. Archana Dama
                     </a>
                     <p>
                         Dental Surgeon
                     </p>
+                    <p><strong>Email: </strong>drarchanadama@gmail.com</p>
                 </div>
-           
-<!-----------------------------------added new ------------------------->
+
+                <!-----------------------------------added new ------------------------->
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ranajoy Banerjee/Ranajoy Banerjee.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Ranajoy Banerjee
+                    </a>
+                    <p>
+                        Post Graduate (3rd Year)
+                    </p>
+                    <p><strong>Email: </strong>ranajoy2706@gmail.com</p>
+                </div>
+
                  <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/simran satnani/Simran Satnani.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a  type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ishwari Garad/ishwari Garad.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Ishwari Manikrao Garad
+                    </a>
+                    <p>
+                        Post Graduate (3rd Year)
+                    </p>
+                    <p><strong>Email: </strong>Ishugarad1770@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vidya Bhamare/Vidya Bhamare.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr.Vidya Bhamare
+                    </a>
+                    <p>
+                        Post Graduate (3rd Year)
+                    </p>
+                    <p><strong>Email: </strong></p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/simran satnani/Simran Satnani.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
                         Dr. Simran Dilipkumar Satnani
                     </a>
                     <p>
                         Post Graduate (2nd Year)
                     </p>
+                    <p><strong>Email: </strong>simransatnani1234@gmail.com</p>
                 </div>
 
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Anish Kumar/Anish Kumar.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a  type="application/pdf" target="_blank" >
-                       Dr. Anish Kumar
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pornima Gawali/Pornima Gawali.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Pornima Gawali
+                    </a>
+                    <p>
+                        Post Graduate (2nd Year)
+                    </p>
+                    <p><strong>Email: </strong>pornimagawali0607@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/SANGHARSH GAIKWAD/SANGHARSH GAIKWAD.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. SANGHARSH GAIKWAD
+                    </a>
+                    <p>
+                        Post Graduate (2nd Year)
+                    </p>
+                    <p><strong>Email: </strong>sangharshvrg@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Anish Kumar/Anish Kumar.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Anish Kumar
                     </a>
                     <p>
                         Post Graduate (1st Year)
                     </p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ishwari Garad/ishwari Garad.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a  type="application/pdf" target="_blank" >
-                       Dr. Ishwari Manikrao Garad
-                    </a>
-                    <p>
-                        Post Graduate (3rd Year)
-                    </p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pornima Gawali/Pornima Gawali.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a  type="application/pdf" target="_blank" >
-                        Dr. Pornima Gawali
-                    </a>
-                    <p>
-                         Post Graduate (2nd Year)
-                    </p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ranajoy Banerjee/Ranajoy Banerjee.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a  type="application/pdf" target="_blank" >
-                       Dr. Ranajoy Banerjee
-                    </a>
-                    <p>
-                      Post Graduate (3rd Year)
-                    </p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Chavda Bipinkumar/Chavda Bipinkumar Ganpatbhai.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a  type="application/pdf" target="_blank" >
-                        Dr. Chavda Bipinkumar Ganpatbhai 
-                    </a>
-                    <p>
-                         Post Graduate (1st Year)
-                    </p>
-                </div>
-
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vidya Bhamare/Vidya Bhamare.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a  type="application/pdf" target="_blank" >
-                      Dr.Vidya Bhamare 
-                    </a>
-                    <p>
-                        Post Graduate (3rd Year)
-                    </p>
+                    <p><strong>Email: </strong>anishe9999@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Diksha Jagtap/Diksha Jagtap.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a  type="application/pdf" target="_blank" >
-                     Dr. Diksha Jagtap
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Chavda Bipinkumar/Chavda Bipinkumar Ganpatbhai.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Chavda Bipinkumar Ganpatbhai
                     </a>
                     <p>
-                       Post Graduate (1st Year) 
+                        Post Graduate (1st Year)
                     </p>
+                    <p><strong>Email: </strong>bipinchavda397@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/SANGHARSH GAIKWAD/SANGHARSH GAIKWAD.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a  type="application/pdf" target="_blank" >
-                      Dr. SANGHARSH GAIKWAD
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Diksha Jagtap/Diksha Jagtap.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a type="application/pdf" target="_blank">
+                        Dr. Diksha Jagtap
                     </a>
                     <p>
-                       Post Graduate (2nd Year)  
+                        Post Graduate (1st Year)
                     </p>
+                    <p><strong>Email: </strong>dikshajagtap1124@gmail.com</p>
                 </div>
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dyaneshwar Rathod/Dyaneshwar Rathod.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a  type="application/pdf" target="_blank" >
-                      Dr.Dyaneshwar Rathod
-                    </a>
-                    <p>
-                       Assistant Professor
-                    </p>
-                </div>
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Gayatri Kale/Gayatri Kale.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
-                    <a  type="application/pdf" target="_blank" >
-                      Dr.Gayatri Kale 
-                    </a>
-                    <p>
-                      Assistant Professor
-                    </p>
-                </div>
-  <!------------------------------end here------------------------------------>              
+<!------------------------------end here------------------------------------>
             </div>
         </div>
 
@@ -439,31 +464,32 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/";
             <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/department Of Oral Medicine and Radiology Team.png" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/department Of Oral Medicine and Radiology Team.png" alt="Department Image" loading="lazy" />
                     <p>Department Of Oral Medicine and Radiology Team</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Teaching Staff.png" alt="Department Image"  loading="lazy"/> 
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Teaching Staff.png" alt="Department Image" loading="lazy" />
                     <p>Teaching Staff</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Postgraduate Students.png" alt="Department Image"  loading="lazy"/> 
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Postgraduate Students.png" alt="Department Image" loading="lazy" />
                     <p>Postgraduate Students</p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/TOBACCO DE-ADDICTION THERAPIES1.png" alt="Department Image"  loading="lazy"/> 
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/TOBACCO DE-ADDICTION THERAPIES1.png" alt="Department Image" loading="lazy" />
                     <p></p>
                 </div>
-                
+
             </div>
             <a class="readMoreBtn"
                 href="<?php echo $CURRENTDIRURL ?>gallery">
                 View More
             </a>
         </div>
-    </div >
+    </div>
 
     <?php include($ROOT . "includes/_footer.php"); ?>
 
 </body>
+
 </html>
