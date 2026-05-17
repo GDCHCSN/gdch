@@ -28,7 +28,8 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
     </link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css">
     </link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/modal.css">
+    </link>
 </head>
 
 <body>
@@ -36,7 +37,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"  loading="lazy"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
             DEPARTMENT OF ORAL AND MAXILLOFACIAL PATHOLOGY & ORAL MICROBIOLOGY
         </h1>
@@ -165,13 +166,13 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
 
         <div class="facultyContainer">
             <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"  loading="lazy"/>
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"  loading="lazy"/>
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
                 <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Mandakini-Mandale/Photo.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Mandakini-Mandale/Photo.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Mandakini-Mandale/1. DR. MANDAKINI MANDALE  MAY 2024.pdf" type="application/pdf" target="_blank">
                         Dr. Mandakini Mandale
                     </a>
@@ -179,14 +180,14 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
                     <p><strong>Email: </strong>msmandale17@gmail.com</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Jayanti-Humbe/2. Dr Jayanti Humbe.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Jayanti-Humbe/2. Dr Jayanti Humbe.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Jayanti-Humbe/2. DR. JAYANTI HUMBE MAY 2024.pdf" type="application/pdf" target="_blank">
                         Dr. Jayanti Humbe
                     </a>
                     <p>Associate Professor, Dept. of Oral Pathology</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vaishali-Nandkhedkar/Photo.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vaishali-Nandkhedkar/Photo.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Vaishali-Nandkhedkar/Vaishali-Nandkhedkar.pdf" type="application/pdf" target="_blank">
                         Dr. Vaishali-Nandkhedkar
                     </a>
@@ -194,14 +195,14 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Savita-Wagh/4. Dr Savita Wagh.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Savita-Wagh/4. Dr Savita Wagh.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Savita-Wagh/4. DR. SAVITA WAGH MAY 2024.pdf" type="application/pdf" target="_blank">
                         Dr. Savita Wagh
                     </a>
                     <p>Associate Professor, Dept. of Oral Pathology </p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Nidhi-Kaushal/5. Dr Nidhi Kaushal.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Nidhi-Kaushal/5. Dr Nidhi Kaushal.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Nidhi-Kaushal/5. DR. NIDHI KAUSHAL MAY 2024.pdf" type="application/pdf" target="_blank">
                         Dr Nidhi Kaushal
                     </a>
@@ -209,35 +210,35 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/6.  Mrs Priya Kamthe.JPG" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/6.  Mrs Priya Kamthe.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="" type="application/pdf" target="_blank">
                         Dr. Priya Kamthe
                     </a>
                     <p>Biochemist, Dept. of Oral Pathology</p>
                 </div>
-<!----------------------------------------added new--------------------------------->
-                  <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vaishnavi Marge/Vaishnavi Marge.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                <!----------------------------------------added new--------------------------------->
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vaishnavi Marge/Vaishnavi Marge.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="" type="application/pdf" target="_blank">
-                       Dr. Vaishnavi Marge
+                        Dr. Vaishnavi Marge
                     </a>
                     <p>Post Graduate (2nd Year), Dept. of Oral Pathology</p>
                     <p><strong>Email: </strong>vaishnavimarge18@gmail.com</p>
                 </div>
 
-                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aishwarya Karhale/Aishwarya Karhale.jpeg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aishwarya Karhale/Aishwarya Karhale.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="" type="application/pdf" target="_blank">
-                       Dr. Aishwarya Karhale
+                        Dr. Aishwarya Karhale
                     </a>
                     <p>Post Graduate (2nd Year), Dept. of Oral Pathology</p>
                     <p><strong>Email: </strong>aishwaryakarhale.ak786@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Harshika Sikhwal/Harshika Sikhwal.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Harshika Sikhwal/Harshika Sikhwal.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="" type="application/pdf" target="_blank">
-                       Dr. Harshika Sikhwal 
+                        Dr. Harshika Sikhwal
                     </a>
                     <p>Post Graduate (1st Year), Dept. of Oral Pathology</p>
                     <p><strong>Email: </strong>harshikasikhwal267@gmail.com</p>
@@ -245,9 +246,9 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
 
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vaishnavi Choudhary/Vaishnavi Choudhary.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vaishnavi Choudhary/Vaishnavi Choudhary.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="" type="application/pdf" target="_blank">
-                       Dr.Vaishnavi Choudhary 
+                        Dr.Vaishnavi Choudhary
                     </a>
                     <p>Post Graduate (1st Year), Dept. of Oral Pathology</p>
                     <p><strong>Email: </strong>vaishnavic272@gmail.com</p>
@@ -255,40 +256,39 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
 
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Akshaya Raj/Akshaya Raj.jpg" alt="faculty" width="200" height="200"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Akshaya Raj/Akshaya Raj.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="" type="application/pdf" target="_blank">
-                       Dr. Akshaya Raj
+                        Dr. Akshaya Raj
                     </a>
                     <p>Post Graduate (1st Year), Dept. of Oral Pathology</p>
                     <p><strong>Email: </strong>akshayarajg@gmail.com</p>
                 </div>
-<!------------------------------------end here------------------------------------------>               
+                <!------------------------------------end here------------------------------------------>
             </div>
         </div>
-
         <div>
             <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Department of Oral Pathology and Microbiology.jpg" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Department of Oral Pathology and Microbiology.jpg" alt="Department Image" loading="lazy" />
                     <p>
                         Department of Oral Pathology and Microbiology
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Winner of VR Mehta Award at 30th IAOMP Conference, Belagavi 2023.jpg" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Winner of VR Mehta Award at 30th IAOMP Conference, Belagavi 2023.jpg" alt="Department Image" loading="lazy" />
                     <p>
                         Winner of VR Mehta Award at 30th IAOMP Conference, Belagavi 2023
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/MUHS University Gold Medallist 2023.jpg" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/MUHS University Gold Medallist 2023.jpg" alt="Department Image" loading="lazy" />
                     <p>
                         MUHS University Gold Medallist 2023
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/First Prize Winner in National Level Quiz Competition in Microscope Rapid Review Program, SRIHER 2023.jpg" alt="Department Image"  loading="lazy"/>
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/First Prize Winner in National Level Quiz Competition in Microscope Rapid Review Program, SRIHER 2023.jpg" alt="Department Image" loading="lazy" />
                     <p>
                         First Prize Winner in National Level Quiz Competition in Microscope Rapid Review Program, SRIHER 2023
                     </p>

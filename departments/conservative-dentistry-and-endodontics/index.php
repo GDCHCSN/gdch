@@ -217,8 +217,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                     <p>Dental Surgeon, Dept. of Conservative Dentistry</p>
                     <p><strong>Email: </strong>varsha.deokar@gmail.com</p>
                 </div>
-
-
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Geetam Duduskar.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
@@ -268,7 +266,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                     <p><strong>Email: </strong></p>
                 </div>
                 <!-----------------------------------new added------------------------>
-
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Vishal Jawadwad.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
@@ -277,7 +274,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                     <p>Post Gradaute (3rd Year), Dept. of Conservative Dentistry</p>
                     <p><strong>Email: </strong>Vishaljawadwad91@gmail.com</p>
                 </div>
-
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Madhura Dange.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
@@ -286,8 +282,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                     <p>Post Gradaute (3rd Year), Dept. of Conservative Dentistry</p>
                     <p><strong>Email: </strong>madhuradange98@gmail.com</p>
                 </div>
-
-
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Shriya.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
@@ -296,7 +290,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                     <p>Post Gradaute (3rd Year), Dept. of Conservative Dentistry</p>
                     <p><strong>Email: </strong>Shriya7699@gmail.com</p>
                 </div>
-
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Manav Modi.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
@@ -305,7 +298,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                     <p>Post Gradaute (2nd Year), Dept. of Conservative Dentistry</p>
                     <p><strong>Email: </strong>manavmodi8224@gmail.com</p>
                 </div>
-
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Shruti Bajaj.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
@@ -314,7 +306,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                     <p>Post Graduate (2nd Year), Dept. of Conservative Dentistry</p>
                     <p><strong>Email: </strong>ssbajaj13@gmail.com</p>
                 </div>
-
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Ramitha H D.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
@@ -323,8 +314,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                     <p>Post Graduate (1st Year), Dept. of Conservative Dentistry</p>
                     <p><strong>Email: </strong>ramithadgowda13@gmail.com</p>
                 </div>
-
-
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Swapnil Mundhe.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
@@ -333,8 +322,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                     <p>Post Graduate (1st Year), Dept. of Conservative Dentistry</p>
                     <p><strong>Email: </strong>swapnilmundhe489@gmail.com</p>
                 </div>
-
-
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Dr Disha Kotak.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
