@@ -1,25 +1,30 @@
 let facultyToggleBtn = document.querySelectorAll(".facultyToggleBtn");
-for (e of facultyToggleBtn) {
+
+for (let e of facultyToggleBtn) {
   e.addEventListener("mousedown", function (e) {
     let facultyToggleBtnIcon = e.currentTarget.querySelectorAll("img");
-    if (facultyToggleBtnIcon[0].style["display"] == "none") {
-      facultyToggleBtnIcon[0].style["display"] = "block";
-      facultyToggleBtnIcon[1].style["display"] = "none";
+
+    if (facultyToggleBtnIcon[0].style.display == "none") {
+      facultyToggleBtnIcon[0].style.display = "block";
+      facultyToggleBtnIcon[1].style.display = "none";
     } else {
-      facultyToggleBtnIcon[0].style["display"] = "none";
-      facultyToggleBtnIcon[1].style["display"] = "block";
+      facultyToggleBtnIcon[0].style.display = "none";
+      facultyToggleBtnIcon[1].style.display = "block";
     }
 
-    let facultyGallery =
-      e.currentTarget.parentElement.querySelector(".facultyGallery, .accordionContent");
-    if (facultyGallery.style.maxHeight == "none") {
-      facultyGallery.style.maxHeight = "0";
-      facultyGallery.style.overflow = "clip";
-      facultyGallery.style.padding = "0";
+    let toggleContent = e.currentTarget.parentElement.querySelector(
+      ".facultyGallery, .accordionContent, .subOpdContent"
+    );
+
+    if (toggleContent.style.maxHeight == "none") {
+      toggleContent.style.maxHeight = "0";
+      toggleContent.style.overflow = "clip";
+      toggleContent.style.padding = "0";
     } else {
-      facultyGallery.style.maxHeight = "none";
-      facultyGallery.style.overflow = "visible";
-      facultyGallery.style.padding = "1.5rem";
+      toggleContent.style.maxHeight = "none";
+      toggleContent.style.overflow = "visible";
+      toggleContent.style.padding = "1.5rem";
     }
   });
 }
+

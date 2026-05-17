@@ -362,10 +362,12 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <div class="majorCasesBox">
                         <table>
                             <tr>
+                                <th>Year</th>
                                 <th>Month</th>
                                 <th>No. of Major Cases</th>
                             </tr>
                             <tr>
+                                <td>2026</td>
                                 <td>April</td>
                                 <td>300</td>
                             </tr>

@@ -408,16 +408,16 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
                                 <th>No. of Major Cases</th>
                             </tr>
                             <tr>
-                                <td>January</td>
-                                <td>25</td>
+                                <!-- <td>January</td>
+                                <td>25</td> -->
                             </tr>
                             <tr>
-                                <td>February</td>
-                                <td>32</td>
+                                <!-- <td>February</td>
+                                <td>32</td> -->
                             </tr>
                             <tr>
-                                <td>March</td>
-                                <td>28</td>
+                                <!-- <td>March</td>
+                                <td>28</td> -->
                             </tr>
                         </table>
                     </div>

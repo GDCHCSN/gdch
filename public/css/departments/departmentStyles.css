@@ -287,6 +287,14 @@ tr {
         margin: 1rem auto;
     }
 }
+
+
+.opdMaindiv {
+    max-width: 1200px;
+    width: 90%;
+    margin: 2rem auto;
+}
+
 .opdTableBox {
     width: 100%;
     overflow-x: auto;
@@ -303,4 +311,52 @@ tr {
     border: 1px solid rgb(228 228 231);
     padding: 1rem;
     font-size: 0.9rem;
+}
+
+.opdTableBox th {
+    color: var(--primary-color);
+    font-weight: 700;
+}
+
+.subOpdContainer {
+    border: 1px solid var(--primary-color);
+    margin-top: 1.5rem;
+}
+
+.subOpdContainer .facultyToggleBtn {
+    border-bottom: 1px solid var(--primary-color);
+}
+
+.subOpdContainer .facultyToggleBtn h3 {
+    margin: 0;
+    color: var(--primary-color);
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.subOpdContent {
+    max-height: 0;
+    overflow: clip;
+    padding: 0;
+    transition: all 0.2s ease-out;
+}
+
+.pdfList {
+    margin: 0;
+    padding-left: 1.2rem;
+}
+
+.pdfList li {
+    margin: 0.6rem 0;
+}
+
+.pdfList a {
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 0.95rem;
+}
+
+.pdfList a:hover {
+    text-decoration: underline;
 }
