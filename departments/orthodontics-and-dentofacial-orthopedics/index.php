@@ -242,7 +242,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                 <div class="facultyToggleBtn">
                     <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
                     <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
-                    <h2>Major Cases Work Done</h2>
+                    <h2>Month-wise major clinical procedures performed including Dental Implants</h2>
                 </div>
                 <div class="accordionContent">
                     <div class="majorCasesBox">
@@ -252,16 +252,16 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                                 <th>No. of Major Cases</th>
                             </tr>
                             <tr>
-                                <td>January</td>
-                                <td>25</td>
+                                <!-- <td>January</td>
+                                <td>25</td> -->
                             </tr>
                             <tr>
-                                <td>February</td>
-                                <td>32</td>
+                                <!-- <td>February</td>
+                                <td>32</td> -->
                             </tr>
                             <tr>
-                                <td>March</td>
-                                <td>28</td>
+                                <!-- <td>March</td>
+                                <td>28</td> -->
                             </tr>
                         </table>
                     </div>

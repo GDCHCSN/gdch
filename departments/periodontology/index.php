@@ -373,7 +373,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
                 <div class="facultyToggleBtn">
                     <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
                     <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
-                    <h2>Major Cases Work Done</h2>
+                    <h2>Month-wise major clinical procedures performed including Dental Implants</h2>
                 </div>
                 <div class="accordionContent">
                     <div class="majorCasesBox">
