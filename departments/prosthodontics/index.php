@@ -138,17 +138,8 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Smita-Khalikar/Smita-Khalikar.pdf" type="application/pdf" target="_blank">
                         Dr. Smita Arun Khalikar
                     </a>
-                    <p>Profesor, Dept. of Prosthodontics</p>
+                    <p>Professor, Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong>smitakhalikar@yahoo.com</p>
-                </div>
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pankaj Dumbare/Pankaj Dumbare.jpg" alt="faculty" width="200" height="200" loading="lazy" />
-                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
-                        Dr. Pankaj Dumbare
-                    </a>
-                    <p>Profesor, Dept. of Prosthodontics</p>
-                    <p><strong>Email: </strong>Pankajdumbare38@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
@@ -156,7 +147,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Vilas-Rajguru/Vilas-Rajguru.pdf" type="application/pdf" target="_blank">
                         Dr. Vilas L. Rajguru
                     </a>
-                    <p>Associate Profesor, Dept. of Prosthodontics</p>
+                    <p>Associate Professor, Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong>vilasrajguru30@gmail.com</p>
                 </div>
                 <div class="facultyCard">
@@ -164,7 +155,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Sonali-Mahajan/Sonali-Mahajan.pdf" type="application/pdf" target="_blank">
                         Dr. Sonali Vishal Mahajan
                     </a>
-                    <p>Associate Profesor, Dept. of Prosthodontics</p>
+                    <p>Associate Professor, Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong>sonaliprostho@gmail.com</p>
                 </div>
                 <div class="facultyCard">
@@ -172,7 +163,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Ulhas-Tandale/Ulhas-Tandale.pdf" type="application/pdf" target="_blank">
                         Dr. Ulhas Eknathrao Tandale
                     </a>
-                    <p>Associate Profesor, Dept. of Prosthodontics</p>
+                    <p>Associate Professor, Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong>ulhastandle@gmail.com</p>
                 </div>
 
@@ -181,7 +172,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <a href="#" type="application/pdf">
                         Dr. Aasmita Kabade
                     </a>
-                    <p>Assistant Profesor, Dept. of Prosthodontics</p>
+                    <p>Assistant Professor, Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
@@ -189,7 +180,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <a href="#" type="application/pdf">
                         Dr. Diksha Dhage
                     </a>
-                    <p>Assistant Profesor, Dept. of Prosthodontics</p>
+                    <p>Assistant Professor, Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
@@ -197,7 +188,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <a href="#" type="application/pdf">
                         Dr. Priyankak Pawar
                     </a>
-                    <p>Assistant Profesor, Dept. of Prosthodontics</p>
+                    <p>Assistant Professor, Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
@@ -205,7 +196,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <a href="#" type="application/pdf">
                         Dr. Sanjivani Mamilwad
                     </a>
-                    <p>Assistant Profesor, Dept. of Prosthodontics</p>
+                    <p>Assistant Professor, Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong></p>
                 </div>
 
@@ -214,7 +205,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <a href="#" type="application/pdf">
                         Dr. Sharda Shelke
                     </a>
-                    <p>Assistant Profesor, Dept. of Prosthodontics</p>
+                    <p>Assistant Professor, Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong></p>
                 </div>
 
@@ -223,7 +214,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
                         Dr. Gopika Gopan
                     </a>
-                    <p>Assistant Profesor, Dept. of Prosthodontics</p>
+                    <p>Assistant Professor, Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong>drgopikagopan@gmail.com</p>
                 </div>
 
@@ -328,7 +319,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <p><strong>Email: </strong>anutalom922@gmail.com</p>
                 </div>
 
-
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Sakshi Bovalekar/Sakshi Bovalekar.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
@@ -336,6 +326,14 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     </a>
                     <p>Post Graduate (1st Year), Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong>sakshibovalekar@gmail.com</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pankaj Dumbare/Pankaj Dumbare.jpg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                        Dr. Pankaj Dumbare
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Prosthodontics</p>
+                    <p><strong>Email: </strong>Pankajdumbare38@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">

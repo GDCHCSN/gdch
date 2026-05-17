@@ -221,7 +221,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Ashok-Bhansali/Ashok-Bhansali.pdf" type="application/pdf" target="_blank">
                         Dr. Ashok Bhansali
                     </a>
-                    <p>Associate profesor, Dept. of Periodontology</p>
+                    <p>Associate professor, Dept. of Periodontology</p>
                     <p><strong>Email: </strong>bhansali_ak@rediffmail.com</p>
                 </div>
                 <div class="facultyCard">
@@ -247,7 +247,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
                     <a href="#">
                         Dr. Apurva Dashputra
                     </a>
-                    <p>Assistant profesor, Dept. of Periodontology</p>
+                    <p>Assistant professor, Dept. of Periodontology</p>
                     <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
@@ -255,7 +255,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
                     <a href="#">
                         Dr. Soma Sindhuja K
                     </a>
-                    <p>Assistant profesor, Dept. of Periodontology</p>
+                    <p>Assistant professor, Dept. of Periodontology</p>
                     <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
@@ -263,7 +263,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/periodontology/";
                     <a href="#">
                         Dr. Swathy Krishna J
                     </a>
-                    <p>Assistant profesor, Dept. of Periodontology</p>
+                    <p>Assistant professor, Dept. of Periodontology</p>
                     <p><strong>Email: </strong></p>
                 </div>
                 <div class="facultyCard">
