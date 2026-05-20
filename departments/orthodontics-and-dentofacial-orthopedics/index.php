@@ -34,7 +34,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"  loading="lazy" />
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" loading="lazy" />
         <h1>
             DEPARTMENT OF ORTHODONTICS AND DENTOFACIAL ORTHOPEDICS
         </h1>
@@ -128,14 +128,14 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
 
         <div class="facultyContainer">
             <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"  loading="lazy" />
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"  loading="lazy" />
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
                 <h2>Our Faculty</h2>
             </div>
             <div class="facultyGallery">
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Rajan-Mahindra/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Rajan-Mahindra/Photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Rajan-Mahindra/Dr-Rajan-Mahindra.pdf" type="application/pdf" target="_blank">
                         Dr. Rajan K. Mahindra
                     </a>
@@ -144,7 +144,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Govind-Raghunath/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Govind-Raghunath/Photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Govind-Raghunath/Dr-Govind-Raghunath.pdf" type="application/pdf" target="_blank">
                         Dr. Govind Raghunath Suryawanshi
                     </a>
@@ -153,7 +153,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Rakesh-Mohade/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Rakesh-Mohade/Photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Rakesh-Mohade/Dr-Rakesh-Mohade.pdf" type="application/pdf" target="_blank">
                         Dr. Rakesh Rai Mohode
                     </a>
@@ -161,7 +161,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                     <p><strong>Email: </strong>rakeshmohode@gmail.com</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Aboli-Muley/Photo.JPG" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr-Aboli-Muley/Photo.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>assets/Dr-Aboli-Muley/Dr-Aboli-Muley.pdf" type="application/pdf" target="_blank">
                         Dr. Aboli Muley
                     </a>
@@ -170,7 +170,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Kiruba Nandhini/Kiruba Nandhini.jpeg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Kiruba Nandhini/Kiruba Nandhini.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
                         Dr. Kiruba Nandhini P S
                     </a>
@@ -178,45 +178,45 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                     <p><strong>Email: </strong>kirubanandhini11@gmail.com</p>
                 </div>
 
-<!-------------------------------------------------added new----------------------------------------->
+                <!-------------------------------------------------added new----------------------------------------->
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Prachi Jawade/Prachi Jawade.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Prachi Jawade/Prachi Jawade.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
-                        Dr. Prachi Jawade 
+                        Dr. Prachi Jawade
                     </a>
                     <p>Post Graduate (3rd Year), Dept. of Orthodontics</p>
                     <p><strong>Email: </strong>prachijawade12@gmail.com </p>
                 </div>
-                
+
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Karthika V/Karthika V.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Karthika V/Karthika V.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
-                       Dr. Karthika V
+                        Dr. Karthika V
                     </a>
                     <p>Post Graduate (3rd Year), Dept. of Orthodontics</p>
                     <p><strong>Email: </strong>karthikavenkatachalapathy@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sneha Shah/Sneha Shah.jpeg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sneha Shah/Sneha Shah.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
-                       Dr. Sneha Shah
+                        Dr. Sneha Shah
                     </a>
                     <p>Post Graduate (3rd Year), Dept. of Orthodontics</p>
                     <p><strong>Email: </strong>snehadevendrashah2404@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shreya Chandanbarve/Shreya Chandanbarve.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shreya Chandanbarve/Shreya Chandanbarve.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
-                       Dr. Shreya Chandanbarve 
+                        Dr. Shreya Chandanbarve
                     </a>
                     <p>Post Graduate (2nd Year), Dept. of Orthodontics</p>
                     <p><strong>Email: </strong>shreyachandanbarve07@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Atharva Deshmukh/Atharva Deshmukh.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Atharva Deshmukh/Atharva Deshmukh.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
                         Dr. Atharva Deshmukh
                     </a>
@@ -225,18 +225,18 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Lalhmangaih Zuala/Lalhmangaih Zuala.jpg" alt="faculty" width="200" height="200"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Lalhmangaih Zuala/Lalhmangaih Zuala.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank">
-                       Dr. Lalhmangaih Zuala
+                        Dr. Lalhmangaih Zuala
                     </a>
                     <p>Post Graduate (2nd Year), Dept. of Orthodontics</p>
                     <p><strong>Email: </strong>xualtea1207@gmail.com</p>
                 </div>
-<!--------------------------------------------end here------------------------------------>
+                <!--------------------------------------------end here------------------------------------>
             </div>
         </div>
 
-<!---------------------------------------------new section added--------------------------------->
+        <!---------------------------------------------new section added--------------------------------->
         <div>
             <div class="facultyContainer marginTop">
                 <div class="facultyToggleBtn">
@@ -248,43 +248,36 @@ $CURRENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedic
                     <div class="majorCasesBox">
                         <table>
                             <tr>
+                                <th>Year</th>
                                 <th>Month</th>
                                 <th>No. of Major Cases</th>
                             </tr>
                             <tr>
-                                <!-- <td>January</td>
-                                <td>25</td> -->
-                            </tr>
-                            <tr>
-                                <!-- <td>February</td>
-                                <td>32</td> -->
-                            </tr>
-                            <tr>
-                                <!-- <td>March</td>
-                                <td>28</td> -->
-                            </tr>
+                                <td>2026</td>
+                                <td>April</td>
+                                <td>4</td>
                         </table>
                     </div>
                 </div>
             </div>
         </div>
-  <!-------------------------------------------new section done--------------------------------->  
+        <!-------------------------------------------new section done--------------------------------->
 
         <div>
             <h2>Gallery</h2>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-1.jpeg" alt="Department Image"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-1.jpeg" alt="Department Image" loading="lazy" />
                     <!-- <p>Undergraduate Clinic</p> -->
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-2.jpeg" alt="Department Image"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-2.jpeg" alt="Department Image" loading="lazy" />
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-3.jpeg" alt="Department Image"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-3.jpeg" alt="Department Image" loading="lazy" />
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-4.jpeg" alt="Department Image"  loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/image-4.jpeg" alt="Department Image" loading="lazy" />
                 </div>
             </div>
             <a class="readMoreBtn" href="<?php echo $CURRENTDIRURL ?>gallery">
