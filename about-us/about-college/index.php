@@ -75,61 +75,94 @@ $CURRENTDIRURL = $ROOTURL . "about-us/about-college/";
     </div>
 
     <div class="opdMaindiv">
-        <div class="facultyContainer marginTop">
-            <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
-                <h2>College OPD</h2>
+    <div class="facultyContainer marginTop">
+        <div class="facultyToggleBtn">
+            <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+            <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
+            <h2>College OPD</h2>
+        </div>
+
+        <div class="accordionContent">
+
+            <!-- College OPD Data -->
+            <div class="opdTableBox">
+                <table>
+                    <tr>
+                        <th>Year</th>
+                        <th>Month</th>
+                        <th>College OPD</th>
+                    </tr>
+                    <tr>
+                        <td>2026</td>
+                        <td>April</td>
+                        <td>6756</td>
+                    </tr>
+                </table>
             </div>
 
-            <div class="accordionContent">
-
-                <!-- College OPD Data -->
-                <div class="opdTableBox">
-                    <table>
-                        <tr>
-                            <th>Year</th>
-                            <th>Month</th>
-                            <th>College OPD</th>
-                        </tr>
-                        <tr>
-                            <td>2026</td>
-                            <td>April</td>
-                            <td>6756</td>
-                        </tr>
-                    </table>
+            <!-- Inner IPD Tab -->
+            <div class="subOpdContainer">
+                <div class="facultyToggleBtn">
+                    <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                    <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
+                    <h3>IPD</h3>
                 </div>
 
-                <!-- Inner PDF Tab -->
-                <div class="subOpdContainer">
-                    <div class="facultyToggleBtn">
-                        <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
-                        <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
-                        <h3>OFSAMS</h3>
-                    </div>
-                    <div class="subOpdContent">
-                        <ul class="pdfList">
-                            <li>
-                                <span class="pdfMonth">April</span>
-                                <span class="pdfYear">2026</span>
-                                <a href="<?php echo $CURRENTDIRURL ?>assets/PG.pdf" target="_blank" rel="noopener noreferrer">
-                                    PG Attendance Details
-                                </a>
-                                
-                                <a href="<?php echo $CURRENTDIRURL ?>assets/STaff.pdf" target="_blank" rel="noopener noreferrer">
-                                    Staff Attendance Details
-                                </a>
-                            </li>
-<!-------add new section-------------------------------------->
-                        </ul>
+                <div class="subOpdContent">
+                    <div class="opdTableBox">
+                        <table>
+                            <tr>
+                                <th>Year</th>
+                                <th>Month</th>
+                                <th>Department</th>
+                                <th>Major Case</th>
+                                <th>Implants</th>
+                                <th>Total</th>
+                                <th>IPD No.</th>
+                            </tr>
+                            <tr>
+                                <td>2026</td>
+                                <td>April</td>
+                                <td>Oral Surgery</td>
+                                <td>14</td>
+                                <td>30</td>
+                                <td>44</td>
+                                <td>16</td>
+                            </tr>
+                        </table>
                     </div>
                 </div>
             </div>
+
+            <!-- Inner PDF Tab -->
+            <div class="subOpdContainer">
+                <div class="facultyToggleBtn">
+                    <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" loading="lazy" />
+                    <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" loading="lazy" />
+                    <h3>OFSAMS</h3>
+                </div>
+
+                <div class="subOpdContent">
+                    <ul class="pdfList">
+                        <li>
+                            <span class="pdfMonth">April</span>
+                            <span class="pdfYear">2026</span>
+
+                            <a href="<?php echo $CURRENTDIRURL ?>assets/PG.pdf" target="_blank" rel="noopener noreferrer">
+                                PG Attendance Details
+                            </a>
+
+                            <a href="<?php echo $CURRENTDIRURL ?>assets/STaff.pdf" target="_blank" rel="noopener noreferrer">
+                                Staff Attendance Details
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
         </div>
     </div>
-
-
-
+</div>
 
 
     <?php include($ROOT . "includes/_footer.php"); ?>
