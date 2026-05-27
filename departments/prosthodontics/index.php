@@ -166,31 +166,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <p>Associate Professor, Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong>ulhastandle@gmail.com</p>
                 </div>
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aasmita-Kabade/Photo.jpg" alt="faculty" width="200" height="200" loading="lazy" />
-                    <a href="#" type="application/pdf">
-                        Dr. Aasmita Kabade
-                    </a>
-                    <p>Assistant Professor, Dept. of Prosthodontics</p>
-                    <p><strong>Email: </strong></p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Diksha-Dhage/Photo.jpg" alt="faculty" width="200" height="200" loading="lazy" />
-                    <a href="#" type="application/pdf">
-                        Dr. Diksha Dhage
-                    </a>
-                    <p>Assistant Professor, Dept. of Prosthodontics</p>
-                    <p><strong>Email: </strong></p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Priyanka-Pawar/Photo.jpg" alt="faculty" width="200" height="200" loading="lazy" />
-                    <a href="#" type="application/pdf">
-                        Dr. Priyankak Pawar
-                    </a>
-                    <p>Assistant Professor, Dept. of Prosthodontics</p>
-                    <p><strong>Email: </strong></p>
-                </div>
+               
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Sanjivani-Mamilwad/Photo.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="#" type="application/pdf">
@@ -201,32 +177,31 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $ROOTURL ?>public/assets/doctor.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/AishwaryaDilipGholap/image.png" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="#" type="application/pdf">
-                        Dr. Sharda Shelke
+                       Dr. Aishwarya Diliprao Gholap
                     </a>
-                    <p>Assistant Professor, Dept. of Prosthodontics</p>
-                    <p><strong>Email: </strong></p>
+                    <p>Assistant Professor(Bonded), Dept. of Prosthodontics</p>
+                    <p><strong>Email: </strong>agholap777@gmail.com</p>
                 </div>
 
                 <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Gopika Gopan/Gopika Gopan.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/akankshaum/image.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="#" type="application/pdf">
+                       Dr. Akanksha U Mukwane
+                    </a>
+                    <p>Assistant Professor(Bonded), Dept. of Prosthodontics</p>
+                    <p><strong>Email: </strong>drmukwaneakanksha12@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Pranalimnir/image.png" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
-                        Dr. Gopika Gopan
+                       Dr. Pranali M. Nirgulkar
                     </a>
-                    <p>Assistant Professor, Dept. of Prosthodontics</p>
-                    <p><strong>Email: </strong>drgopikagopan@gmail.com</p>
+                    <p>Assistant Professor(Bonded), Dept. of Prosthodontics</p>
+                    <p><strong>Email: </strong>pranalinirgulkar15@gmail.com</p>
                 </div>
-
-                <div class="facultyCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>assets/Nikhil-Chawala/Photo.jpg" alt="faculty" width="200" height="200" loading="lazy" />
-                    <a href="#" type="application/pdf">
-                        Dr. Nikhil Chawala
-                    </a>
-                    <p>Dental Surgeon, Dept. of Prosthodontics</p>
-                    <p><strong>Email: </strong></p>
-                </div>
-
                 <!----------new added----------------------------------->
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Eva Jain/Eva Jain.jpg" alt="faculty" width="200" height="200" loading="lazy" />
@@ -275,6 +250,15 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                 </div>
 
                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/PayalRewale/image.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                      Dr. Payal Rewale
+                    </a>
+                    <p>Post Graduate (3rd Year), Dept. of Prosthodontics</p>
+                    <p><strong>Email: </strong>payalrewale98@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Bhushan Krishna chalmela/Bhushan Krishna chalmela.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
                         Dr. Bhushan Krishna chalmela
@@ -302,6 +286,32 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                 </div>
 
                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/ShivaniMalipatil/image.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                        Dr. Shivani Malipatil
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Prosthodontics</p>
+                    <p><strong>Email: </strong>drshivanimalipatil@gmail.com</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/AmrutaKulkarni/image.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                       Dr. Amruta Kulkarni
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Prosthodontics</p>
+                    <p><strong>Email: </strong>amrutak1098@gmail.com</p>
+                </div>
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/PriyaJha/image.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                     Dr. Priya Jha
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Prosthodontics</p>
+                    <p><strong>Email: </strong>prijha5@gmail.com</p>
+                </div>
+
+                <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Sayali Jadhav/Sayali Jadhav.JPG" alt="faculty" width="200" height="200" loading="lazy" />
                     <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
                         Dr. Sayali Jadhav
@@ -309,6 +319,16 @@ $CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <p>Post Graduate (1st Year), Dept. of Prosthodontics</p>
                     <p><strong>Email: </strong>sjae240@gmail.com</p>
                 </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/GunjanKumar/image.png" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
+                        Dr. Gunjan Kumar
+                    </a>
+                    <p>Post Graduate (1st Year), Dept. of Prosthodontics</p>
+                    <p><strong>Email: </strong>gunjankumar99@gmail.com</p>
+                </div>
+
 
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Anu Talom/Anu Talom.jpg" alt="faculty" width="200" height="200" loading="lazy" />
