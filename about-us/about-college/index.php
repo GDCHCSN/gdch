@@ -148,13 +148,13 @@ $CURRENTDIRURL = $ROOTURL . "about-us/about-college/";
                             <span class="pdfMonth">April</span>
                             <span class="pdfYear">2026</span>
 
-                            <a href="<?php echo $CURRENTDIRURL ?>assets/PG.pdf" target="_blank" rel="noopener noreferrer">
+                            <!-- <a href="<?php echo $CURRENTDIRURL ?>assets/" target="_blank" rel="noopener noreferrer">
                                 PG Attendance Details
                             </a>
 
-                            <a href="<?php echo $CURRENTDIRURL ?>assets/STaff.pdf" target="_blank" rel="noopener noreferrer">
+                            <a href="<?php echo $CURRENTDIRURL ?>assets/" target="_blank" rel="noopener noreferrer">
                                 Staff Attendance Details
-                            </a>
+                            </a> -->
                         </li>
                     </ul>
                 </div>
