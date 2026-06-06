@@ -82,6 +82,7 @@
                     <a href="<?php echo $ROOTURL ?>student-portal/student-council"> STUDENT COUNCIL </a>
                     <a href="<?php echo $ROOTURL ?>student-portal/parent-teacher-association"> PARENT-TEACHER ASSOCIATION </a>
                     <a href="<?php echo $ROOTURL ?>student-portal/student-info"> STUDENT INFO </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/UG-PG-Students_Grievance_Redressal"> UG AND PG STUDENT GRIEVANCE </a>
                     <a href="<?php echo $ROOTURL ?>student-portal/students-achievements"> STUDENTS'S ACHIEVEMENTS </a>
                     <a href="<?php echo $ROOTURL ?>student-portal/academic"> ACADEMIC </a>
                     <a href="<?php echo $ROOTURL ?>student-portal/educational-resources"> EDUCATIONAL RESOURCES </a>
