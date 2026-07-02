@@ -62,6 +62,9 @@ $CURRENTDIRURL = $ROOTURL . "procurement-cell/";
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/2025-26/Journal Quotation 2026.pdf" target="_blank">Journal Quotation 2026</a></li>
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/2025-26/उपकरणे_संसाधने यांचे खरेदीच्या अनुषंगाने दरपत्रक मोहोरबंद लिफाफे सादर करणेबाबत.pdf" target="_blank">उपकरणे संसाधने यांचे खरेदीच्या अनुषंगाने दरपत्रक मोहोरबंद लिफाफे सादर करणेबाबत</a></li>
                     <li><a href="<?php echo $CURRENTDIRURL ?>assets/2025-26/फर्निचर तसेच साधनसामुग्री खरेदीकामी दरपत्रक मोहोरबंद लिफाफे सादर करणेबाबत.pdf" target="_blank">फर्निचर तसेच साधनसामुग्री खरेदीकामी दरपत्रक मोहोरबंद लिफाफे सादर करणेबाबत</a></li>
+                    <h3>2026-27</h3>
+                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/2026-27/भोजनालय व उपहारगृह निविदा.pdf" target="_blank">शासकीय दंत महाविद्यालय संस्था परिसरातील व संस्थेच्या वस्तीगृहातील भोजनालय व उपहारगृहासाठी निविदा</a></li>
+
                 </ul>
                 </ul>
             </div> 
