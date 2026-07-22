@@ -144,16 +144,16 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/anti-ragging/";
             <p>
                 Log on to: www.antiragging.in
             </p>
-            <a href="<?php echo $CURRENTDIRURL ?>assets/Anti-Ragging.pdf" target="_blank">
+            <a href="<?php echo $CURRENTDIRURL ?>assets/Anti-Ragging.pdf" target="_blank"><span style="position: absolute; top: 0; left: 0; transform: translate(-30%); animation: blink 1s steps(2, start) infinite; text-shadow: none; color: green;">New</span>
                 Anti-Ragging (pdf download)
             </a>
-            <a href="<?php echo $CURRENTDIRURL ?>assets/Anti-Ragging Committee.pdf" target="_blank">
+            <a href="<?php echo $CURRENTDIRURL ?>assets/Anti-Ragging Committee.pdf" target="_blank"><span style="position: absolute; top: 0; left: 0; transform: translate(-30%); animation: blink 1s steps(2, start) infinite; text-shadow: none; color: green;">New</span>
                 Anti-Ragging Committee (pdf download)
             </a>
-            <a href="<?php echo $CURRENTDIRURL ?>assets/Anti-Ragging Squad.pdf" target="_blank">
+            <a href="<?php echo $CURRENTDIRURL ?>assets/Anti-Ragging Squad.pdf" target="_blank"><span style="position: absolute; top: 0; left: 0; transform: translate(-30%); animation: blink 1s steps(2, start) infinite; text-shadow: none; color: green;">New</span>
                 Anti-Ragging Squad (pdf download)
             </a>
-            <a href="<?php echo $CURRENTDIRURL ?>assets/Anti-Ragging Helpline.pdf" target="_blank">
+            <a href="<?php echo $CURRENTDIRURL ?>assets/Anti-Ragging Helpline.pdf" target="_blank"><span style="position: absolute; top: 0; left: 0; transform: translate(-30%); animation: blink 1s steps(2, start) infinite; text-shadow: none; color: green;">New</span>
                 Anti-Ragging Helpline (pdf download)
             </a>
         </div>
