@@ -144,8 +144,17 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/anti-ragging/";
             <p>
                 Log on to: www.antiragging.in
             </p>
-            <a href="<?php echo $CURRENTDIRURL ?>assets/anti-ragging.pdf" target="_blank">
+            <a href="<?php echo $CURRENTDIRURL ?>assets/Anti-Ragging.pdf" target="_blank">
+                Anti-Ragging (pdf download)
+            </a>
+            <a href="<?php echo $CURRENTDIRURL ?>assets/Anti-Ragging Committee.pdf" target="_blank">
                 Anti-Ragging Committee (pdf download)
+            </a>
+            <a href="<?php echo $CURRENTDIRURL ?>assets/Anti-Ragging Squad.pdf" target="_blank">
+                Anti-Ragging Squad (pdf download)
+            </a>
+            <a href="<?php echo $CURRENTDIRURL ?>assets/Anti-Ragging Helpline.pdf" target="_blank">
+                Anti-Ragging Helpline (pdf download)
             </a>
         </div>
     </div>

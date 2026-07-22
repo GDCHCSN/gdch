@@ -74,6 +74,5 @@ $CURRENTDIRURL = $ROOTURL . "procurement-cell/";
     </div>
     
     <?php include($ROOT . "includes/_footer.php"); ?>
-
 </body>
 </html>
