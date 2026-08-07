@@ -35,6 +35,11 @@
             <a href="services">
                 सेवा अधिसूचना
             </a>
+
+            <a href="<?php echo $ROOTURL ?>public/assets/" target="_blank">
+                Right to Information (RTI)
+            </a>
+            
         </div>
         <div>
             <span>Contact Us</span>
