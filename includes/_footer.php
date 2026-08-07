@@ -32,14 +32,12 @@
             <a href="<?php echo $ROOTURL ?>public/assets/17-babi-december-2020.pdf" target="_blank">
                 १७ बाबी
             </a>
-            <a href="services">
-                सेवा अधिसूचना
-            </a>
-
             <a href="<?php echo $ROOTURL ?>public/assets/" target="_blank">
                 Right to Information (RTI)
             </a>
-            
+            <a href="services">
+                सेवा अधिसूचना
+            </a>
         </div>
         <div>
             <span>Contact Us</span>
