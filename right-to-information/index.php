@@ -153,16 +153,15 @@ $CURRENTDIRURL = $ROOTURL . "/right-to-information";
                     </thead>
 
                     <tbody>
-
                         <tr>
-                            <td>Public Information Officer (PIO)<br>(जन माहिती अधिकारी)</td>
-                             <td>श्री. समीर भास्करराव काळुसे</td>
+                            <td>First Appellate Authority <br>(प्रथम अपिलीय अधिकारी)</td>
+                            <td>डॉ. माया संजीव इंदूरकर</td>
                             
                         </tr>
 
                         <tr>
-                            <td>First Appellate Authority <br>(प्रथम अपिलीय अधिकारी)</td>
-                            <td>डॉ. माया संजीव इंदूरकर</td>
+                            <td>Public Information Officer (PIO)<br>(जन माहिती अधिकारी)</td>
+                             <td>श्री. समीर भास्करराव काळुसे</td>
                             
                         </tr>
 
