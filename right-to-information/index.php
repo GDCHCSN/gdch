@@ -217,7 +217,7 @@ $CURRENTDIRURL = $ROOTURL . "/right-to-information";
         <!-- 5. First Appeal Form -->
         <div class="rti-card">
 
-            <h3>5. First Appeal Form</h3>
+            <h3>5. Appeal Form</h3>
 
             <div class="card-body">
 
@@ -243,7 +243,7 @@ $CURRENTDIRURL = $ROOTURL . "/right-to-information";
                 <a href="assets/rti appeal form.pdf"
                     class="download-btn"
                     target="_blank">
-                    Download First Appeal Form
+                    Download Appeal Form
                 </a>
 
             </div>
