@@ -292,7 +292,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/";
                     <a href="<?php echo $CURRENTDIRURL ?>" type="#" target="_blank">
                         Dr. Mehul Ajit Shah
                     </a>
-                    <p>Staff, Dept. of Public Health Dentistry</p>
+                    <p>Assistant Professor, Dept. of Public Health Dentistry</p>
                     <p><strong>Email: </strong>mehulshah1126@gmail.com</p>
                 </div>
                 <div class="facultyCard">
