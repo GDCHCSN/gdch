@@ -306,6 +306,15 @@ $CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/
                     <p>Post Graduate (2nd Year), Dept. of Conservative Dentistry</p>
                     <p><strong>Email: </strong>ssbajaj13@gmail.com</p>
                 </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shweta_Chavan.jpeg" alt="faculty" width="200" height="200" loading="lazy" />
+                    <a>
+                        Dr.Shweta Chavan 
+                    </a>
+                    <p>Post Graduate (2nd Year), Dept. of Conservative Dentistry</p>
+                    <p><strong>Email: </strong></p>
+                </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/Ramitha H D.jpg" alt="faculty" width="200" height="200" loading="lazy" />
                     <a>
