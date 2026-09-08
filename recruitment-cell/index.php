@@ -222,26 +222,26 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/नियमित चिकित्सालयीन सहाय्यक पदासाठी निवड झालेल्या उमेदवारांची अंतिम निवड यादी.pdf" target="_blank">
                       नियमित चिकित्सालयीन सहाय्यक पदासाठी निवड झालेल्या उमेदवारांची अंतिम निवड यादी
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/कॅज्युअल  चिकित्सालयीन सहाय्यक पदासाठी निवड झालेल्या उमेदवारांची अंतिम निवड यादी.pdf" target="_blank">
                       कॅज्युअल  चिकित्सालयीन सहाय्यक पदासाठी निवड झालेल्या उमेदवारांची अंतिम निवड यादी
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/एप्रिल-2026 चिकित्सालयीन सहाय्यक यांचे वेळापत्रक.pdf" target="_blank">
                       एप्रिल-2026 चिकित्सालयीन सहाय्यक यांचे वेळापत्रक
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यक यांचे ऑक्टोबर 2025 चे सुधारित वेळापत्रक.pdf" target="_blank">
                       चिकित्सालयीन सहाय्यक यांचे ऑक्टोबर 2025 चे सुधारित वेळापत्रक
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
-                        </a>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a> -->
                     </li>
 
                     <li>
