@@ -1,0 +1,1041 @@
+/* =====================================================
+   DAILY DIGITAL CLINICAL DASHBOARD
+===================================================== */
+
+.clinicalDashboard {
+
+    width: 92%;
+
+    max-width: 1350px;
+
+    margin: 0 auto;
+
+    padding: 45px 0 70px;
+
+}
+
+
+/* =====================================================
+   DATE NAVIGATION
+===================================================== */
+
+.dateNavigation {
+
+    margin-bottom: 40px;
+
+    padding: 25px;
+
+    border: 1px solid #e2e6e9;
+
+    border-radius: 12px;
+
+    background: #ffffff;
+
+    box-shadow:
+        0 3px 15px rgba(0, 0, 0, .04);
+
+}
+
+
+.dateNavigationHeader {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 20px;
+
+    margin-bottom: 22px;
+
+}
+
+
+.dateNavigationHeader > div:first-child > span {
+
+    font-size: 10px;
+
+    font-weight: 800;
+
+    letter-spacing: 1.5px;
+
+    color: #1f5f8b;
+
+}
+
+
+.dateNavigationHeader h2 {
+
+    margin: 5px 0 0;
+
+    font-size: 23px;
+
+    color: #26343d;
+
+}
+
+
+.selectedDateBox {
+
+    min-width: 180px;
+
+    padding: 11px 15px;
+
+    border-radius: 8px;
+
+    background: #f4f7f9;
+
+    text-align: right;
+
+}
+
+
+.selectedDateBox span {
+
+    display: block;
+
+    margin-bottom: 3px;
+
+    font-size: 9px;
+
+    font-weight: 700;
+
+    letter-spacing: 1px;
+
+    color: #7d878e;
+
+}
+
+
+.selectedDateBox strong {
+
+    font-size: 13px;
+
+    color: #26343d;
+
+}
+
+
+/* =====================================================
+   DATE TABS
+===================================================== */
+
+.dateTabs {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 8px;
+
+}
+
+
+.dateTab {
+
+    min-width: 58px;
+
+    padding: 9px 13px;
+
+    border: 1px solid #dfe4e7;
+
+    border-radius: 8px;
+
+    background: #ffffff;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    transition: .2s ease;
+
+}
+
+
+.dateTab strong {
+
+    display: block;
+
+    font-size: 16px;
+
+    color: #34424b;
+
+}
+
+
+.dateTab span {
+
+    display: block;
+
+    margin-top: 2px;
+
+    font-size: 10px;
+
+    text-transform: uppercase;
+
+    color: #89939a;
+
+}
+
+
+.dateTab:hover {
+
+    border-color: #1f5f8b;
+
+}
+
+
+.dateTab.active {
+
+    border-color: #1f5f8b;
+
+    background: #1f5f8b;
+
+}
+
+
+.dateTab.active strong,
+
+.dateTab.active span {
+
+    color: #ffffff;
+
+}
+
+
+/* =====================================================
+   NO REPORT
+===================================================== */
+
+.noReports {
+
+    padding: 18px;
+
+    border-radius: 8px;
+
+    background: #f7f8f9;
+
+    color: #7d878e;
+
+    font-size: 13px;
+
+}
+
+
+/* =====================================================
+   DATE NAVIGATION BUTTONS
+===================================================== */
+
+.dateNavigationButtons {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    margin-top: 18px;
+
+}
+
+
+.dateNavButton {
+
+    padding: 8px 13px;
+
+    border: 1px solid #dfe4e7;
+
+    border-radius: 7px;
+
+    color: #1f5f8b;
+
+    font-size: 11px;
+
+    font-weight: 700;
+
+    text-decoration: none;
+
+}
+
+
+.dateNavButton:hover {
+
+    background: #f3f7f9;
+
+}
+
+
+/* =====================================================
+   DASHBOARD HEADER
+===================================================== */
+
+.dashboardTopBar {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 25px;
+
+    margin-bottom: 25px;
+
+}
+
+
+.dashboardEyebrow {
+
+    font-size: 10px;
+
+    font-weight: 800;
+
+    letter-spacing: 1.5px;
+
+    color: #1f5f8b;
+
+}
+
+
+.dashboardTopBar h2 {
+
+    margin: 6px 0 0;
+
+    font-size: 28px;
+
+    color: #202b33;
+
+}
+
+
+.reportStatusBadge {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 8px;
+
+    padding: 9px 13px;
+
+    border: 1px solid #dfe4e7;
+
+    border-radius: 20px;
+
+    font-size: 11px;
+
+    font-weight: 700;
+
+    color: #52606a;
+
+}
+
+
+.statusDot {
+
+    width: 8px;
+
+    height: 8px;
+
+    border-radius: 50%;
+
+    background: #2e8b57;
+
+}
+
+
+/* =====================================================
+   KPI GRID
+===================================================== */
+
+.kpiGrid {
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(3, 1fr);
+
+    gap: 18px;
+
+    margin-bottom: 25px;
+
+}
+
+
+.kpiCard {
+
+    min-height: 180px;
+
+    padding: 22px;
+
+    border: 1px solid #e4e7ea;
+
+    border-radius: 12px;
+
+    background: #ffffff;
+
+    box-shadow:
+        0 3px 15px rgba(0, 0, 0, .045);
+
+    transition: .2s ease;
+
+}
+
+
+.kpiCard:hover {
+
+    transform: translateY(-3px);
+
+    box-shadow:
+        0 9px 25px rgba(0, 0, 0, .08);
+
+}
+
+
+.featuredCard {
+
+    border-top: 3px solid #1f5f8b;
+
+}
+
+
+.kpiTop {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    margin-bottom: 24px;
+
+}
+
+
+.kpiIcon {
+
+    width: 42px;
+
+    height: 42px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    border-radius: 9px;
+
+    background: #edf5fa;
+
+    color: #1f5f8b;
+
+    font-size: 11px;
+
+    font-weight: 800;
+
+}
+
+
+.kpiTag {
+
+    font-size: 9px;
+
+    font-weight: 800;
+
+    letter-spacing: 1px;
+
+    color: #7b858d;
+
+}
+
+
+.kpiContent > span {
+
+    display: block;
+
+    margin-bottom: 7px;
+
+    font-size: 13px;
+
+    font-weight: 600;
+
+    color: #56616a;
+
+}
+
+
+.kpiContent h3 {
+
+    margin: 0;
+
+    font-size: 31px;
+
+    color: #202b33;
+
+}
+
+
+.kpiContent .timingValue {
+
+    font-size: 22px;
+
+    color: #1f5f8b;
+
+}
+
+
+.kpiContent p {
+
+    margin: 8px 0 0;
+
+    font-size: 11px;
+
+    color: #89929a;
+
+}
+
+
+/* =====================================================
+   ANALYTICS
+===================================================== */
+
+.analyticsGrid {
+
+    display: grid;
+
+    grid-template-columns:
+        1.25fr 1fr;
+
+    gap: 20px;
+
+}
+
+
+.analyticsCard {
+
+    min-height: 270px;
+
+    padding: 27px;
+
+    border: 1px solid #e3e6e8;
+
+    border-radius: 12px;
+
+    background: #ffffff;
+
+    box-shadow:
+        0 3px 15px rgba(0, 0, 0, .045);
+
+}
+
+
+.cardHeader {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: flex-start;
+
+    gap: 20px;
+
+    margin-bottom: 30px;
+
+}
+
+
+.cardHeader > div:first-child > span {
+
+    font-size: 10px;
+
+    font-weight: 800;
+
+    letter-spacing: 1.4px;
+
+    color: #1f5f8b;
+
+}
+
+
+.cardHeader h3 {
+
+    margin: 7px 0 0;
+
+    font-size: 19px;
+
+    color: #26343d;
+
+}
+
+
+.headerNumber {
+
+    text-align: right;
+
+    font-size: 25px;
+
+    font-weight: 800;
+
+    color: #202b33;
+
+}
+
+
+.headerNumber small {
+
+    display: block;
+
+    font-size: 10px;
+
+    color: #89929a;
+
+}
+
+
+/* =====================================================
+   PATIENT SPLIT
+===================================================== */
+
+.patientSplit {
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(2, 1fr);
+
+    gap: 35px;
+
+}
+
+
+.patientTypeTop {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    margin-bottom: 10px;
+
+}
+
+
+.patientTypeTop span {
+
+    font-size: 13px;
+
+    font-weight: 600;
+
+    color: #56616a;
+
+}
+
+
+.patientTypeTop strong {
+
+    font-size: 12px;
+
+    color: #1f5f8b;
+
+}
+
+
+.progressBar {
+
+    width: 100%;
+
+    height: 9px;
+
+    overflow: hidden;
+
+    border-radius: 20px;
+
+    background: #edf0f2;
+
+}
+
+
+.progressFill {
+
+    height: 100%;
+
+    border-radius: inherit;
+
+}
+
+
+.newPatients {
+
+    background: #1f5f8b;
+
+}
+
+
+.revisitPatients {
+
+    background: #5f8da8;
+
+}
+
+
+.patientType h4 {
+
+    margin: 13px 0 0;
+
+    font-size: 25px;
+
+    color: #202b33;
+
+}
+
+
+.patientType p {
+
+    margin: 4px 0 0;
+
+    font-size: 11px;
+
+    color: #89929a;
+
+}
+
+
+/* =====================================================
+   BENEFICIARIES
+===================================================== */
+
+.beneficiaryList {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 28px;
+
+}
+
+
+.beneficiaryItem {
+
+    display: grid;
+
+    grid-template-columns:
+        45px 1fr 65px;
+
+    grid-template-rows:
+        auto 7px;
+
+    column-gap: 13px;
+
+    align-items: center;
+
+}
+
+
+.beneficiaryIcon {
+
+    grid-row: span 2;
+
+    width: 42px;
+
+    height: 42px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    border-radius: 9px;
+
+    background: #edf5fa;
+
+    color: #1f5f8b;
+
+    font-size: 10px;
+
+    font-weight: 800;
+
+}
+
+
+.beneficiaryInfo {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    gap: 10px;
+
+    font-size: 13px;
+
+    color: #56616a;
+
+}
+
+
+.beneficiaryInfo strong {
+
+    color: #202b33;
+
+}
+
+
+.beneficiaryBar {
+
+    grid-column: 2 / 4;
+
+    height: 7px;
+
+    overflow: hidden;
+
+    border-radius: 20px;
+
+    background: #edf0f2;
+
+}
+
+
+.beneficiaryBar div {
+
+    height: 100%;
+
+    border-radius: inherit;
+
+    background: #1f5f8b;
+
+}
+
+
+/* =====================================================
+   REPORT FOOTER
+===================================================== */
+
+.reportFooter {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 25px;
+
+    margin-top: 25px;
+
+    padding: 20px 24px;
+
+    border: 1px solid #e1e4e7;
+
+    border-radius: 10px;
+
+    background: #fafbfc;
+
+}
+
+
+.reportStatus {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 12px;
+
+}
+
+
+.reportStatus strong {
+
+    display: block;
+
+    font-size: 13px;
+
+    color: #26343d;
+
+}
+
+
+.reportStatus p {
+
+    margin: 3px 0 0;
+
+    font-size: 11px;
+
+    color: #89929a;
+
+}
+
+
+.reportDate {
+
+    text-align: right;
+
+}
+
+
+.reportDate span {
+
+    display: block;
+
+    font-size: 10px;
+
+    color: #89929a;
+
+}
+
+
+.reportDate strong {
+
+    font-size: 13px;
+
+    color: #26343d;
+
+}
+
+
+/* =====================================================
+   RESPONSIVE
+===================================================== */
+
+@media (max-width: 1050px) {
+
+    .kpiGrid {
+
+        grid-template-columns:
+            repeat(2, 1fr);
+
+    }
+
+
+    .analyticsGrid {
+
+        grid-template-columns: 1fr;
+
+    }
+
+}
+
+
+@media (max-width: 700px) {
+
+    .dateNavigationHeader {
+
+        flex-direction: column;
+
+        align-items: flex-start;
+
+    }
+
+
+    .selectedDateBox {
+
+        width: 100%;
+
+        box-sizing: border-box;
+
+        text-align: left;
+
+    }
+
+
+    .dashboardTopBar {
+
+        flex-direction: column;
+
+        align-items: flex-start;
+
+    }
+
+
+    .patientSplit {
+
+        grid-template-columns: 1fr;
+
+        gap: 28px;
+
+    }
+
+}
+
+
+@media (max-width: 600px) {
+
+    .clinicalDashboard {
+
+        width: 94%;
+
+        padding: 35px 0 50px;
+
+    }
+
+
+    .kpiGrid {
+
+        grid-template-columns: 1fr;
+
+    }
+
+
+    .analyticsCard {
+
+        padding: 21px;
+
+    }
+
+
+    .cardHeader {
+
+        flex-direction: column;
+
+    }
+
+
+    .headerNumber {
+
+        text-align: left;
+
+    }
+
+
+    .reportFooter {
+
+        flex-direction: column;
+
+        align-items: flex-start;
+
+    }
+
+
+    .reportDate {
+
+        text-align: left;
+
+    }
+
+
+    .dateNavigationButtons {
+
+        gap: 10px;
+
+    }
+
+}
+
+
+@media (max-width: 420px) {
+
+    .beneficiaryItem {
+
+        grid-template-columns:
+            42px 1fr;
+
+    }
+
+
+    .beneficiaryBar {
+
+        grid-column: 2;
+
+    }
+
+}
