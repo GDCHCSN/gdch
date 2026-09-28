@@ -35,7 +35,7 @@
             <a href="<?php echo $ROOTURL ?>right-to-information">
                 Right to Information (RTI)
             </a>
-            <a href="services">
+            <a href="<?php echo $ROOTURL ?>services">
                 सेवा अधिसूचना
             </a>
         </div>
