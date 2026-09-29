@@ -1,12 +1,65 @@
-/* =====================================================
+/* =========================================================
    ANNEXURE I
-===================================================== */
+   GOVERNMENT DENTAL COLLEGE & HOSPITAL
+   UI STYLE - CLINICAL DASHBOARD INSPIRED
+   ========================================================= */
 
-.annexurePage {
-    width: 92%;
-    max-width: 1250px;
-    margin: 0 auto;
-    padding: 65px 0;
+:root {
+    --maroon: #7d2118;
+    --maroon-dark: #651810;
+    --maroon-light: #963025;
+
+    --gold: #d9a72f;
+    --gold-light: #f3dfaa;
+
+    --cream: #fbf7ef;
+    --cream-dark: #f5eee2;
+
+    --white: #ffffff;
+
+    --text-dark: #2d2927;
+    --text: #4f4844;
+    --muted: #82766e;
+
+    --border: #e7ddd0;
+
+    --shadow:
+        0 10px 30px rgba(85, 48, 35, 0.08);
+
+    --shadow-hover:
+        0 18px 40px rgba(85, 48, 35, 0.14);
+}
+
+
+/* =========================================================
+   GLOBAL
+   ========================================================= */
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+
+    background:
+        linear-gradient(
+            180deg,
+            #ffffff 0%,
+            #fbf8f2 45%,
+            #f7f1e8 100%
+        );
+
+    color: var(--text-dark);
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
 }
 
 
@@ -55,134 +108,353 @@
     font-size: 18px;
 }
 
+/* =========================================================
+   MAIN CONTENT
+   ========================================================= */
 
-/* =====================================================
-   INTRO
-===================================================== */
+.annexurePage {
+    width: 94%;
+    max-width: 1400px;
 
-.annexureIntro {
-    max-width: 800px;
-    margin: 0 auto 50px;
-    text-align: center;
+    margin: 0 auto;
+
+    padding:
+        48px
+        0
+        75px;
 }
 
-.annexureLabel {
-    display: inline-block;
 
-    padding: 7px 18px;
+/* =========================================================
+   INTRODUCTION
+   ========================================================= */
 
-    border-radius: 30px;
+.annexureIntro {
+    position: relative;
 
-    font-size: 12px;
-    font-weight: 700;
+    margin-bottom: 28px;
 
-    letter-spacing: 1.5px;
+    padding:
+        28px
+        32px;
+
+    background:
+        linear-gradient(
+            135deg,
+            #fffdf9,
+            #f9f3e9
+        );
+
+    border:
+        1px solid
+        var(--border);
+
+    border-radius: 20px;
+
+    box-shadow:
+        0 8px 25px
+        rgba(85, 48, 35, 0.06);
+
+    overflow: hidden;
+}
+
+
+/* Decorative gold circle */
+
+.annexureIntro::after {
+    content: "";
+
+    position: absolute;
+
+    right: -80px;
+    top: -100px;
+
+    width: 230px;
+    height: 230px;
+
+    border-radius: 50%;
+
+    background:
+        rgba(217, 167, 47, 0.08);
+
+    pointer-events: none;
+}
+
+
+/* Left maroon line */
+
+.annexureIntro::before {
+    content: "";
+
+    position: absolute;
+
+    left: 0;
+    top: 0;
+
+    width: 5px;
+    height: 100%;
+
+    background:
+        linear-gradient(
+            180deg,
+            var(--maroon),
+            var(--gold)
+        );
 }
 
 .annexureIntro h2 {
-    margin: 16px 0 10px;
+    position: relative;
 
-    font-size: 34px;
+    z-index: 1;
+
+    margin: 0 0 8px;
+
+    color: var(--maroon);
+
+    font-size: 26px;
+
+    font-weight: 800;
+
+    line-height: 1.3;
 }
 
 .annexureIntro p {
+    position: relative;
+
+    z-index: 1;
+
     margin: 0;
 
-    font-size: 16px;
-    line-height: 1.7;
+    max-width: 900px;
+
+    color: var(--muted);
+
+    font-size: 14px;
+
+    line-height: 1.75;
 }
 
 
-/* =====================================================
-   GRID
-===================================================== */
+/* =========================================================
+   ANNEXURE GRID
+   ========================================================= */
 
 .annexureGrid {
     display: grid;
 
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns:
+        repeat(
+            3,
+            minmax(
+                0,
+                1fr
+            )
+        );
 
-    gap: 22px;
+    gap: 20px;
 }
 
 
-/* =====================================================
-   CARD
-===================================================== */
+/* =========================================================
+   ANNEXURE CARD
+   ========================================================= */
 
 .annexureCard {
     position: relative;
 
     display: flex;
 
-    gap: 20px;
+    flex-direction: column;
 
-    min-height: 235px;
+    min-height: 315px;
 
-    padding: 28px;
+    padding: 24px;
 
-    border: 1px solid #e5e5e5;
+    background:
+        linear-gradient(
+            145deg,
+            #fffdf9 0%,
+            #fbf6ed 100%
+        );
 
-    border-radius: 12px;
+    border:
+        1px solid
+        var(--border);
 
-    background: #fff;
+    border-radius: 20px;
 
-    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.06);
+    box-shadow: var(--shadow);
+
+    overflow: hidden;
 
     transition:
-        transform .25s ease,
-        box-shadow .25s ease,
-        border-color .25s ease;
+        transform 0.28s ease,
+        box-shadow 0.28s ease,
+        border-color 0.28s ease;
+}
+
+
+/* Top decorative circle */
+
+.annexureCard::after {
+    content: "";
+
+    position: absolute;
+
+    top: -75px;
+    right: -65px;
+
+    width: 170px;
+    height: 170px;
+
+    border-radius: 50%;
+
+    background:
+        rgba(
+            217,
+            167,
+            47,
+            0.09
+        );
+
+    transition:
+        transform 0.35s ease;
+}
+
+
+/* Maroon top line */
+
+.annexureCard::before {
+    content: "";
+
+    position: absolute;
+
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 4px;
+
+    background:
+        linear-gradient(
+            90deg,
+            var(--maroon),
+            var(--maroon-light),
+            var(--gold)
+        );
+
+    transform:
+        scaleX(0);
+
+    transform-origin: left;
+
+    transition:
+        transform 0.3s ease;
 }
 
 .annexureCard:hover {
-    transform: translateY(-4px);
+    transform:
+        translateY(-6px);
+
+    border-color:
+        #ddc8b4;
 
     box-shadow:
-        0 10px 28px rgba(0, 0, 0, 0.10);
+        var(--shadow-hover);
+}
+
+.annexureCard:hover::before {
+    transform:
+        scaleX(1);
+}
+
+.annexureCard:hover::after {
+    transform:
+        scale(1.15);
 }
 
 
-/* =====================================================
-   NUMBER
-===================================================== */
+/* =========================================================
+   NUMBER BADGE
+   ========================================================= */
 
 .cardNumber {
-    flex-shrink: 0;
+    position: relative;
 
-    width: 52px;
-    height: 52px;
+    z-index: 2;
 
     display: flex;
 
     align-items: center;
     justify-content: center;
 
-    border-radius: 10px;
+    width: 48px;
+    height: 48px;
 
-    font-size: 16px;
+    margin-bottom: 32px;
+
+    border-radius: 13px;
+
+    background:
+        linear-gradient(
+            145deg,
+            var(--maroon-light),
+            var(--maroon)
+        );
+
+    color: #ffffff;
+
+    font-size: 14px;
+
     font-weight: 800;
+
+    letter-spacing: 0.5px;
+
+    box-shadow:
+        0 8px 16px
+        rgba(
+            125,
+            33,
+            24,
+            0.18
+        );
 }
 
 
-/* =====================================================
-   CONTENT
-===================================================== */
+/* =========================================================
+   CARD CONTENT
+   ========================================================= */
 
 .cardContent {
+    position: relative;
+
+    z-index: 2;
+
+    display: flex;
+
+    flex-direction: column;
+
     flex: 1;
 }
 
 .cardContent h3 {
-    margin: 2px 0 10px;
+    margin: 0 0 12px;
 
-    font-size: 19px;
+    color: var(--text-dark);
+
+    font-size: 20px;
+
+    font-weight: 800;
 
     line-height: 1.35;
+
+    letter-spacing: -0.2px;
 }
 
 .cardContent p {
-    margin: 0;
+    margin: 0 0 22px;
+
+    color: var(--muted);
 
     font-size: 14px;
 
@@ -190,129 +462,353 @@
 }
 
 
-/* =====================================================
-   DOCUMENT LINK
-===================================================== */
+/* =========================================================
+   DOCUMENT BUTTON
+   ========================================================= */
 
 .documentLink {
     display: inline-flex;
 
     align-items: center;
 
+    align-self: flex-start;
+
     gap: 9px;
 
-    margin-top: 22px;
+    margin-top: auto;
 
-    padding: 10px 15px;
+    padding:
+        10px
+        14px;
 
-    border-radius: 7px;
+    background:
+        rgba(
+            125,
+            33,
+            24,
+            0.06
+        );
+
+    border:
+        1px solid
+        rgba(
+            125,
+            33,
+            24,
+            0.14
+        );
+
+    border-radius: 9px;
+
+    color: var(--maroon);
 
     text-decoration: none;
 
-    font-size: 13px;
-    font-weight: 700;
+    font-size: 12px;
 
-    transition: all .2s ease;
+    font-weight: 800;
+
+    transition:
+        background 0.25s ease,
+        color 0.25s ease,
+        transform 0.25s ease,
+        border-color 0.25s ease;
 }
 
 .documentLink:hover {
-    transform: translateX(3px);
+    background:
+        var(--maroon);
+
+    border-color:
+        var(--maroon);
+
+    color:
+        #ffffff;
+
+    transform:
+        translateX(4px);
 }
+
+
+/* =========================================================
+   DOCUMENT ICON
+   ========================================================= */
 
 .documentIcon {
-    font-size: 15px;
+    display: inline-flex;
+
+    align-items: center;
+    justify-content: center;
+
+    width: 27px;
+    height: 27px;
+
+    background:
+        #ffffff;
+
+    border-radius: 7px;
+
+    font-size: 13px;
 }
+
+.documentLink:hover .documentIcon {
+    background:
+        rgba(
+            255,
+            255,
+            255,
+            0.16
+        );
+}
+
+
+/* =========================================================
+   ARROW
+   ========================================================= */
 
 .arrow {
-    margin-left: 5px;
+    margin-left: 2px;
 
     font-size: 16px;
+
+    transition:
+        transform 0.25s ease;
+}
+
+.documentLink:hover .arrow {
+    transform:
+        translateX(4px);
 }
 
 
-/* =====================================================
+/* =========================================================
    FOOT NOTE
-===================================================== */
+   ========================================================= */
 
 .annexureFooterNote {
+    position: relative;
 
     display: flex;
 
     align-items: center;
 
-    gap: 12px;
+    gap: 14px;
 
-    margin-top: 35px;
+    margin-top: 25px;
 
-    padding: 18px 22px;
+    padding:
+        18px
+        22px;
 
-    border-radius: 9px;
+    background:
+        linear-gradient(
+            90deg,
+            #fffaf0,
+            #fbf6ed
+        );
 
-    border: 1px solid #e2e2e2;
+    border:
+        1px solid
+        var(--border);
+
+    border-radius: 15px;
+
+    color: var(--muted);
 }
 
-.annexureFooterNote span {
-    font-size: 20px;
+.annexureFooterNote > span {
+    flex-shrink: 0;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    width: 38px;
+    height: 38px;
+
+    background:
+        #ffffff;
+
+    border:
+        1px solid
+        #ead8b5;
+
+    border-radius: 50%;
+
+    color:
+        var(--maroon);
+
+    font-size: 16px;
 }
 
 .annexureFooterNote p {
     margin: 0;
 
-    font-size: 14px;
+    font-size: 13px;
+
+    line-height: 1.6;
 }
 
 
-/* =====================================================
-   RESPONSIVE
-===================================================== */
+/* =========================================================
+   TABLET
+   ========================================================= */
 
-@media (max-width: 900px) {
+@media (max-width: 1100px) {
+
+    .annexureGrid {
+        grid-template-columns:
+            repeat(
+                2,
+                minmax(
+                    0,
+                    1fr
+                )
+            );
+    }
+
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+    .pageBanner {
+        min-height: 260px;
+    }
+
+    .annexureBannerContent {
+        width: 88%;
+
+        padding:
+            55px 0;
+    }
+
+    .annexureBannerContent h1 {
+        font-size: 38px;
+    }
+
+    .annexureBannerContent p {
+        font-size: 14px;
+    }
+
+    .annexurePage {
+        width: 90%;
+
+        padding:
+            32px 0
+            55px;
+    }
 
     .annexureGrid {
         grid-template-columns: 1fr;
+
+        gap: 17px;
+    }
+
+    .annexureCard {
+        min-height: 285px;
+
+        padding: 22px;
     }
 
 }
 
 
-@media (max-width: 600px) {
+/* =========================================================
+   SMALL MOBILE
+   ========================================================= */
 
-    .annexurePage {
-        width: 94%;
-        padding: 45px 0;
-    }
-
-    .pageBanner {
-        height: 220px;
-    }
+@media (max-width: 450px) {
 
     .annexureBannerContent h1 {
         font-size: 32px;
     }
 
-    .annexureBannerContent p {
-        font-size: 15px;
+    .annexureIntro {
+        padding:
+            24px;
     }
 
     .annexureIntro h2 {
-        font-size: 27px;
+        font-size: 22px;
     }
 
     .annexureCard {
-        padding: 22px;
+        padding:
+            20px;
 
-        gap: 14px;
+        min-height:
+            275px;
     }
 
     .cardNumber {
         width: 44px;
         height: 44px;
 
-        font-size: 14px;
+        margin-bottom:
+            25px;
     }
 
     .cardContent h3 {
-        font-size: 17px;
+        font-size: 18px;
+    }
+
+    .documentLink {
+        width: 100%;
+
+        justify-content: center;
+    }
+
+    .annexureFooterNote {
+        align-items: flex-start;
+
+        padding:
+            16px;
+    }
+
+}
+
+
+/* =========================================================
+   ACCESSIBILITY
+   ========================================================= */
+
+.documentLink:focus-visible {
+    outline:
+        3px solid
+        rgba(
+            217,
+            167,
+            47,
+            0.35
+        );
+
+    outline-offset:
+        3px;
+}
+
+
+/* =========================================================
+   REDUCED MOTION
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+    html {
+        scroll-behavior:
+            auto;
+    }
+
+    .annexureCard,
+    .documentLink,
+    .arrow {
+        transition:
+            none;
     }
 
 }

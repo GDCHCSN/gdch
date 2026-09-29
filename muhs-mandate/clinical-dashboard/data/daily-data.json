@@ -1,21 +1,81 @@
 {
-    "2026-09-28": {
-        "date": "28 September 2026",
-        "cprTimings": "09:00 AM – 04:00 PM",
-        "newPatients": 0,
-        "revisitPatients": 0,
-        "inPatients": 0,
-        "communityOutreach": 0,
-        "mobileDentalClinic": 0
-    },
-
-    "2026-09-29": {
-        "date": "29 September 2026",
-        "cprTimings": "09:00 AM – 04:00 PM",
-        "newPatients": 0,
-        "revisitPatients": 0,
-        "inPatients": 0,
-        "communityOutreach": 0,
-        "mobileDentalClinic": 0
+  "daily": {},
+  "monthlyDepartments": {
+    "2026-09": {
+      "Oral Medicine (excluding CPR new patients)": {
+        "Total": 4247
+      },
+      "Oral & Maxillofacial Radiology": {
+        "Periapical": 3892,
+        "Bitewing": 110,
+        "Occlusal": 44,
+        "Panoramic": 206,
+        "Cephalograms": 47,
+        "Extra-oral": 459,
+        "CBCT": 206,
+        "Any other imaging": null
+      },
+      "Periodontology": {
+        "Non-surgical": 989,
+        "Surgical": 12,
+        "Implant-related procedures": 4,
+        "Any other": 129
+      },
+      "Prosthodontics and Crown & Bridge": {
+        "Complete denture": 462,
+        "Removable partial denture": 615,
+        "Fixed partial denture": 1398,
+        "Implant-related": 84,
+        "Maxillofacial prosthesis": 56
+      },
+      "Pediatric & Preventive Dentistry": {
+        "Restorative": 62,
+        "Interceptive": null,
+        "Preventive": null,
+        "Endodontic": 153,
+        "Oral prophylaxis": null,
+        "Trauma management": null,
+        "Conscious sedation": null,
+        "Procedures under GA": null,
+        "Extraction": 130
+      },
+      "Orthodontics": {
+        "Patient assessment": 912,
+        "Removable orthodontics": 193,
+        "Myofunctional orthodontics": 8,
+        "Fixed orthodontics": 178,
+        "Any other": null
+      },
+      "Oral & Maxillo-facial Surgery": {
+        "Exodontia": 736,
+        "Minor surgeries": 121,
+        "Major surgeries": 2,
+        "Implant-related": 16,
+        "Any other": null
+      },
+      "Dental Public Health": {
+        "Preventive procedures": 884,
+        "Oral health education": 150,
+        "Outreach": 2,
+        "Any other": null
+      },
+      "Conservative Dentistry & Endodontics": {
+        "Restorative": 1901,
+        "Endodontic": 1887,
+        "Surgical endodontic": 10,
+        "Any other": 82
+      },
+      "Oral Pathology & Microbiology": {
+        "Blood samples received": 239,
+        "Blood samples processed": 239,
+        "Microbiology samples received": 3,
+        "Microbiology samples processed": 3,
+        "Cytology samples received": 37,
+        "Cytology samples processed": 37,
+        "Tissue samples received": 19,
+        "Tissue samples processed": 19,
+        "Any other": null
+      }
     }
+  }
 }
