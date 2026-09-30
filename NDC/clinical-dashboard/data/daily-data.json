@@ -1,5 +1,14 @@
 {
-  "daily": {},
+  "daily": {
+    "2026-09-29": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients": 276,
+      "revisitPatients": 75,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
+    }
+  },
   "monthlyDepartments": {
     "2026-09": {
       "Oral Medicine (excluding CPR new patients)": {
@@ -22,17 +31,17 @@
         "Any other": 129
       },
       "Prosthodontics and Crown & Bridge": {
-        "Complete denture": 462,
-        "Removable partial denture": 615,
-        "Fixed partial denture": 1398,
-        "Implant-related": 84,
-        "Maxillofacial prosthesis": 56
+        "Complete denture procedures": 462,
+        "Removable partial denture procedures": 615,
+        "Fixed partial denture procedures": 1398,
+        "Implant-related procedures": 84,
+        "Maxillofacial prosthesis procedures ": 56
       },
       "Pediatric & Preventive Dentistry": {
-        "Restorative": 62,
-        "Interceptive": null,
-        "Preventive": null,
-        "Endodontic": 153,
+        "Restorative procedures": 62,
+        "Interceptive procedures": null,
+        "Preventive procedures": null,
+        "Endodontic procedures": 153,
         "Oral prophylaxis": null,
         "Trauma management": null,
         "Conscious sedation": null,
@@ -50,7 +59,7 @@
         "Exodontia": 736,
         "Minor surgeries": 121,
         "Major surgeries": 2,
-        "Implant-related": 16,
+        "Implant-related procedures": 16,
         "Any other": null
       },
       "Dental Public Health": {
@@ -60,9 +69,9 @@
         "Any other": null
       },
       "Conservative Dentistry & Endodontics": {
-        "Restorative": 1901,
-        "Endodontic": 1887,
-        "Surgical endodontic": 10,
+        "Restorative procedures": 1901,
+        "Endodontic procedures": 1887,
+        "Surgical endodontic procedures": 10,
         "Any other": 82
       },
       "Oral Pathology & Microbiology": {

@@ -45,7 +45,6 @@ $departmentSchema = [
         "Removable partial denture procedures" => null,
         "Fixed partial denture procedures" => null,
         "Implant-related procedures" => null,
-        "Maxillofacial prosthesis procedures" => null
     ],
     "Pediatric & Preventive Dentistry" => [
         "Restorative procedures" => null,
