@@ -117,13 +117,14 @@
             <a href="<?php echo $ROOTURL ?>procurement-cell">
                 PROCUREMENT CELL
             </a>
-            <!-- <a href="<?php echo $ROOTURL ?>muhs-mandate/">
+            <!------------------- old tab-------------- -->
+            <a href="<?php echo $ROOTURL ?>muhs-mandate/">
                 MUHS MANDATE
-            </a> -->
+            </a>
 
             <div class="dropdownContainer">
                 <div>
-                    MUHS MANDATE
+                    NDC
                     <img src="<?php echo $ROOTURL ?>public/assets/up.svg"
                         alt="up icon"
                         height="10"
@@ -132,18 +133,13 @@
 
                 <div class="subNavItemContainer">
 
-                    <!-- Main MUHS Mandate Page -->
-                    <a href="<?php echo $ROOTURL ?>muhs-mandate/">
-                        MUHS MANDATE
-                    </a>
-
                     <!-- Annexure 1 -->
-                    <a href="<?php echo $ROOTURL ?>muhs-mandate/Annexure-1">
+                    <a href="<?php echo $ROOTURL ?>NDC/Annexure-1">
                         ANNEXURE 1
                     </a>
 
                     <!-- Daily Digital Clinical Dashboard -->
-                    <a href="<?php echo $ROOTURL ?>muhs-mandate/clinical-dashboard/">
+                    <a href="<?php echo $ROOTURL ?>NDC/clinical-dashboard/">
                         DAILY DIGITAL CLINICAL DASHBOARD
                     </a>
 

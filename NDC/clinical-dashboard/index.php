@@ -3,7 +3,7 @@ $ROOT = "../../";
 
 include($ROOT . "includes/_init.php");
 
-$CURRENTDIRURL = $ROOTURL . "muhs-mandate/clinical-dashboard/";
+$CURRENTDIRURL = $ROOTURL . "NDC/clinical-dashboard/";
 $dataFile = __DIR__ . "/data/daily-data.json";
 
 $dashboardData = [];

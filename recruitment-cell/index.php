@@ -144,79 +144,79 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यक एप्रिल -2026 ची 07 पदासाठीची जाहिरात.pdf" target="_blank">
                       चिकित्सालयीन सहाय्यक एप्रिल -2026 ची 07 पदासाठीची जाहिरात
-                            <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: green; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यक निवडीसंबंधीचे वेळापत्रक एप्रिल-2026.pdf" target="_blank">
                         चिकित्सालयीन सहाय्यक निवडीसंबंधीचे वेळापत्रक एप्रिल-2026
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/C.A Advertisement 2026.pdf" target="_blank">
                         CA (चिकित्सालयीन सहाय्यक) पदे भरण्यासाठी अर्ज मागविण्याबाबत.
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
-                        </a>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: yellow; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>-->
+                        </a> 
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Government Dental coll. & Hos. Chh. Sambhajinagar Provisional List.pdf" target="_blank">
                         Government Dental coll. & Hos. Chh. Sambhajinagar Provisional List
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Provisional Merit List Government Dental coll. & Hos. Mumbai.pdf" target="_blank">
                        Provisional Merit List Government Dental coll. & Hos. Mumbai
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Provisional Merit List Private College Dental college and Hospital in Maharashtra.pdf" target="_blank">
                        Provisional Merit List Private College Dental college and Hospital in Maharashtra 
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Deemed university Provisional Merit List.pdf" target="_blank">
                       Deemed university Provisional Merit List
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Deemed university final Merit List.pdf" target="_blank">
                         Deemed university final Merit List
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Government Dental coll. & Hos. Chh. Sambhajinagar Final Merit List.pdf" target="_blank">
                       Government Dental coll. & Hos. Chh. Sambhajinagar Final Merit List
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/government Dental College and Hospital Mumbai final Merit List.pdf" target="_blank">
                       Government Dental College and Hospital Mumbai final Merit List
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Private Dental coll. & Hos. Chh. Sambhajinagar Final Merit List.pdf" target="_blank">
                       Private Dental coll. & Hos. Chh. Sambhajinagar Final Merit List
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: red; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सा लाईन सहाय्यक (कॅज्युअल) पदासाठी अंतरिम निवड झालेल्या व प्रतीक्षा यादी.pdf" target="_blank">
                       चिकित्सा लाईन सहाय्यक (कॅज्युअल) पदासाठी अंतरिम निवड झालेल्या व प्रतीक्षा यादी
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/नियमित चिकित्सलाईन सहाय्यक पदासाठी अंतरिम निवड यादी.pdf" target="_blank">
                       नियमित चिकित्सलाईन सहाय्यक पदासाठी अंतरिम निवड यादी
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span> -->
                         </a>
                     </li>
                      <li>
@@ -240,21 +240,42 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                      <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सालयीन सहाय्यक यांचे ऑक्टोबर 2025 चे सुधारित वेळापत्रक.pdf" target="_blank">
                       चिकित्सालयीन सहाय्यक यांचे ऑक्टोबर 2025 चे सुधारित वेळापत्रक
-                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
-                        </a> -->
+                            
+                        </a>
                     </li>
 
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सायीन सहाय्यक निवडी संबंधीचे वेळापत्रक ऑक्टोबर 2026 बॅच(1).pdf" target="_blank">
                       चिकित्सायीन सहाय्यक निवडी संबंधीचे वेळापत्रक ऑक्टोबर 2026 बॅच
-                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
-                        </a>
+                            <!-- <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>-->
+                        </a> 
                     </li>
 
 
                     <li>
                         <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/चिकित्सायीन सहाय्यक निवडी संबंधीचे वेळापत्रक ऑक्टोबर 2026 बॅच.pdf" target="_blank">
                       चिकित्सायीन सहाय्यक निवडी संबंधीचे वेळापत्रक ऑक्टोबर 2026 बॅच
+                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Provisional merit list, Private colleges.pdf" target="_blank">
+                        Provisional merit list, Private colleges
+                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Provisional merit list Deemed University.pdf" target="_blank">
+                        Provisional merit list Deemed University
+                            <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Government dental college provisional merit list.pdf" target="_blank">
+                       Government dental college provisional merit list
                             <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
                     </li>

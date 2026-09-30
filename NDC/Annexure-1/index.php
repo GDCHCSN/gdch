@@ -3,7 +3,7 @@
 $ROOT = "../../";
 include($ROOT . "includes/_init.php");
 
-$CURRENTDIRURL = $ROOTURL . "muhs-mandate/Annexure-1/";
+$CURRENTDIRURL = $ROOTURL . "NDC/Annexure-1/";
 
 ?>
 
