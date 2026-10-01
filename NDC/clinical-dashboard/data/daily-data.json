@@ -7,6 +7,14 @@
       "inPatients": null,
       "communityOutreach": null,
       "mobileDentalClinic": null
+    },
+    "2026-09-30": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients": 276,
+      "revisitPatients": 88,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
     }
   },
   "monthlyDepartments": {
@@ -35,7 +43,7 @@
         "Removable partial denture procedures": 615,
         "Fixed partial denture procedures": 1398,
         "Implant-related procedures": 84,
-        "Maxillofacial prosthesis procedures ": 56
+        "Maxillofacial prosthesis procedures": 56
       },
       "Pediatric & Preventive Dentistry": {
         "Restorative procedures": 62,
