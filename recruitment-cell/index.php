@@ -267,8 +267,8 @@ $CURRENTDIRURL = $ROOTURL . "recruitment-cell/";
                     </li>
 
                     <li>
-                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Provisional merit list, Private colleges.pdf" target="_blank">
-                        Provisional merit list, Private colleges
+                        <a style="font-weight: 400;" href="<?php echo $CURRENTDIRURL ?>assets/Provisional merit list Deemed University.pdf" target="_blank">
+                        Provisional merit list Deemed University
                             <span style="color: darkgreen; font-weight: bold; font-size: 12px; background: green; padding: 2px 5px; border-radius: 5px; margin-left: 8px; animation: blink 1s steps(2, start) infinite;">New</span>
                         </a>
                     </li>
