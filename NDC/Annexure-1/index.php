@@ -134,7 +134,7 @@ $CURRENTDIRURL = $ROOTURL . "NDC/Annexure-1/";
                     </p>
 
                     <a
-                        href="<?php echo $ROOTURL; ?>#"
+                        href="<?php echo $CURRENTDIRURL; ?>assets/1 NAME AND CONTACT INFORMATION.pdf"
                         target="_blank"
                         class="documentLink">
                         <span class="documentIcon">📄</span>
@@ -168,7 +168,7 @@ $CURRENTDIRURL = $ROOTURL . "NDC/Annexure-1/";
                     </p>
 
                     <a
-                        href="<?php echo $ROOTURL; ?>#"
+                        href="<?php echo $CURRENTDIRURL; ?>assets/2 APPROVAL INTAKE CAPACITY BDS MDS.pdf"
                         target="_blank"
                         class="documentLink">
                         <span class="documentIcon">📄</span>
@@ -201,7 +201,7 @@ $CURRENTDIRURL = $ROOTURL . "NDC/Annexure-1/";
                     </p>
 
                     <a
-                        href="<?php echo $ROOTURL; ?>#"
+                        href="<?php echo $CURRENTDIRURL; ?>assets/3 STATUS OF RECOGNITION ACCREDITATION.pdf"
                         target="_blank"
                         class="documentLink">
                         <span class="documentIcon">📄</span>
@@ -267,7 +267,7 @@ $CURRENTDIRURL = $ROOTURL . "NDC/Annexure-1/";
                     </p>
 
                     <a
-                        href="<?php echo $ROOTURL; ?>#"
+                        href="<?php echo $CURRENTDIRURL; ?>assets/5 NAME OF AFFILIATING UNIVERSITY.pdf"
                         target="_blank"
                         class="documentLink">
                         <span class="documentIcon">📄</span>
@@ -300,7 +300,7 @@ $CURRENTDIRURL = $ROOTURL . "NDC/Annexure-1/";
                     </p>
 
                     <a
-                        href="<?php echo $ROOTURL; ?>#"
+                        href="<?php echo $CURRENTDIRURL; ?>assets/6 approved fee srtucture.pdf"
                         target="_blank"
                         class="documentLink">
                         <span class="documentIcon">📄</span>
@@ -366,7 +366,7 @@ $CURRENTDIRURL = $ROOTURL . "NDC/Annexure-1/";
                     </p>
 
                     <a
-                        href="<?php echo $ROOTURL; ?>#"
+                        href="<?php echo $CURRENTDIRURL; ?>assets/8 research projects, grants, patents,innovations.pdf"
                         target="_blank"
                         class="documentLink">
                         <span class="documentIcon">📄</span>
@@ -400,7 +400,7 @@ $CURRENTDIRURL = $ROOTURL . "NDC/Annexure-1/";
                     </p>
 
                     <a
-                        href="<?php echo $ROOTURL; ?>#"
+                        href="<?php echo $CURRENTDIRURL; ?>"
                         target="_blank"
                         class="documentLink">
                         <span class="documentIcon">📄</span>
@@ -433,7 +433,7 @@ $CURRENTDIRURL = $ROOTURL . "NDC/Annexure-1/";
                     </p>
 
                     <a
-                        href="<?php echo $ROOTURL; ?>#"
+                        href="<?php echo $CURRENTDIRURL; ?>assets/10 LIST OF AWARDS HONOURS.pdf"
                         target="_blank"
                         class="documentLink">
                         <span class="documentIcon">📄</span>
@@ -467,7 +467,7 @@ $CURRENTDIRURL = $ROOTURL . "NDC/Annexure-1/";
                     </p>
 
                     <a
-                        href="<?php echo $ROOTURL; ?>##"
+                        href="<?php echo $CURRENTDIRURL; ?>assets/11 INSTITUTIONAL POLICIES.pdf"
                         target="_blank"
                         class="documentLink">
                         <span class="documentIcon">📄</span>
