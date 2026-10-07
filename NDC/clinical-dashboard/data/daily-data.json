@@ -50,8 +50,8 @@
     },
     "2026-10-07": {
       "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
-      "newPatients":253,
-      "revisitPatients":84,
+      "newPatients":245,
+      "revisitPatients":78,
       "inPatients": null,
       "communityOutreach": null,
       "mobileDentalClinic": null
