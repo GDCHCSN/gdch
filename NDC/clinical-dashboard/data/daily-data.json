@@ -55,6 +55,14 @@
       "inPatients": null,
       "communityOutreach": null,
       "mobileDentalClinic": null
+    },
+    "2026-10-08": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients":250,
+      "revisitPatients":96,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
     }
   },
   "monthlyDepartments": {
