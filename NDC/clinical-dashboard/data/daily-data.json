@@ -79,6 +79,30 @@
       "inPatients": null,
       "communityOutreach": null,
       "mobileDentalClinic": null
+    },
+    "2026-10-13": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients":268,
+      "revisitPatients":86,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
+    },
+    "2026-10-14": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients":243,
+      "revisitPatients":81,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
+    },
+    "2026-10-15": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients":209,
+      "revisitPatients":91,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
     }
   },
   "monthlyDepartments": {
