@@ -175,6 +175,62 @@
       "inPatients": null,
       "communityOutreach": null,
       "mobileDentalClinic": null
+    },
+    "2026-10-30": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients":197,
+      "revisitPatients":82,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
+    },
+    "2026-10-31": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients":126,
+      "revisitPatients":54,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
+    },
+    "2026-11-02": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients":306,
+      "revisitPatients":65,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
+    },
+    "2026-11-03": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients":251,
+      "revisitPatients":82,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
+    },
+    "2026-11-04": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients":232,
+      "revisitPatients":78,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
+    },
+    "2026-11-05": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients":185,
+      "revisitPatients":72,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
+    },
+    "2026-11-07": {
+      "cprTimings": "8:30 AM - 12:30 PM; 01:00 PM - 04:30 PM",
+      "newPatients":135,
+      "revisitPatients":27,
+      "inPatients": null,
+      "communityOutreach": null,
+      "mobileDentalClinic": null
     }
   },
   "monthlyDepartments": {
