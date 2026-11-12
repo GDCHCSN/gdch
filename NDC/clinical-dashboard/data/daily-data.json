@@ -197,7 +197,7 @@
       "newPatients": 306,
       "revisitPatients": 65,
       "inPatients": null,
-      "communityOutreach": null,
+      "communityOutreach": 28,
       "mobileDentalClinic": null
     },
     "2026-11-03": {
@@ -205,7 +205,7 @@
       "newPatients": 251,
       "revisitPatients": 82,
       "inPatients": null,
-      "communityOutreach": null,
+      "communityOutreach": 27,
       "mobileDentalClinic": null
     },
     "2026-11-04": {
@@ -213,7 +213,7 @@
       "newPatients": 232,
       "revisitPatients": 78,
       "inPatients": null,
-      "communityOutreach": null,
+      "communityOutreach": 25,
       "mobileDentalClinic": null
     },
     "2026-11-05": {
@@ -221,7 +221,7 @@
       "newPatients": 185,
       "revisitPatients": 72,
       "inPatients": null,
-      "communityOutreach": null,
+      "communityOutreach": 15,
       "mobileDentalClinic": null
     },
     "2026-11-07": {
@@ -229,7 +229,7 @@
       "newPatients": 135,
       "revisitPatients": 27,
       "inPatients": null,
-      "communityOutreach": null,
+      "communityOutreach": 16,
       "mobileDentalClinic": null
     },
     "2026-11-09": {
@@ -237,7 +237,7 @@
       "newPatients": 161,
       "revisitPatients": 9,
       "inPatients": null,
-      "communityOutreach": null,
+      "communityOutreach": 23,
       "mobileDentalClinic": null
     }
   },
